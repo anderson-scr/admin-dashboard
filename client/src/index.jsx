@@ -1,6 +1,8 @@
 import ReactDOM from "react-dom/client";
 import React from "react";
 import App from "./app";
+import "./theme/darkTheme.css";
+import "./theme/lightTheme.css";
 import "./index.css";
 
 // Redux

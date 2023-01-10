@@ -4,23 +4,10 @@
   margin-top: 7%;
   margin-bottom: 5%;
 }
-.createAccountMsg {
-  margin-top: 8%;
+.loginMsg {
+  color: var(--main-light);
+  margin-bottom: 0;
 }
-.logoText {
-  font-size: 24px;
-  color: var(--lighter-blue);
-}
-
-.containerButtons {
-  margin-top: 13%;
-  display: flex;
-  justify-content: center;
-}
-#btnLogin {
-  width: 60%;
-}
-
 #spCreateAccount {
   color: var(--lighter-blue);
   transition: color 150ms linear;

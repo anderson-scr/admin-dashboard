@@ -1,0 +1,8 @@
+[data-bs-theme="light"] {
+  --bg-color: #f8f9fa;
+  --text-color: #212529;
+
+  --dark-blue: #07405a;
+  --blue: #065a82;
+  --light-blue: #65ddf9de;
+}

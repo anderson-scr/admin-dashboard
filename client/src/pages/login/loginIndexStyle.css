@@ -1,29 +1,66 @@
-.containerLogin {
+/* Logo title */
+.logoIN {
+  font-size: 1.3rem;
+  color: var(--lighter-blue);
+}
+.logoTitle {
+  font-size: 3rem;
+}
+
+/* Container Login */
+.containerLoginIndex {
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
   align-items: center;
   margin: 0 auto;
   height: 50%;
+  width: 35%;
+  overflow: hidden;
   margin-top: 3%;
-  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+  box-shadow: rgba(101, 222, 249, 0.117) 0px 19px 38px, rgba(101, 222, 249, 0.098) 0px 15px 12px;
   transition: border-color 450ms linear, box-shadow 600ms linear;
 
   /* From https://css.glass */
   background: rgba(67, 193, 193, 0.08);
   border-radius: 16px;
-  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
   backdrop-filter: blur(0.5px);
   -webkit-backdrop-filter: blur(0.5px);
   border: 1px solid rgba(67, 193, 193, 0.17);
 }
-
-.containerLogin:hover {
+.containerLoginIndex:hover {
   border-color: var(--lighter-blue);
   box-shadow: rgba(101, 222, 249, 0.299) 0px 19px 38px, rgba(101, 222, 249, 0.082) 0px 15px 12px;
 }
 
-.logoIN {
-  font-size: 24px;
-  color: var(--lighter-blue);
+
+/* Tabs */
+.containerTabs {
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  overflow: hidden;
+}
+.btnTab {
+  height: 5.5vh;
+  font-size: 18px;
+  font-weight: 600;
+  background-color: transparent;
+  outline: none;
+  border: none;
+  color: var(--white);
+  border: 2px solid transparent;
+  transition: border-color 200ms linear;
+}
+.btnTab:hover {
+  cursor: pointer;
+  border-bottom: 2px solid var(--yellow);
+  color: var(--yellow);
+}
+
+.active {
+  border-bottom: 2px solid var(--yellow);
+}
+.active > button {
+  color: var(--yellow) !important;  
 }

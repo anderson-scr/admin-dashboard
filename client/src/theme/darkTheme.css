@@ -1,0 +1,45 @@
+[data-bs-theme="dark"] {
+  --bg-color: #060D2F;
+  --text-color: #f8f9fa;
+  --main-dark: #07405a;
+  --main: #065a82;
+  --main-light: #65ddf9de;
+  --grey: #ccc;
+  --ipt-bg: #393f54cc;
+  --red: #c71f37;
+  --yellow: #ffd000;
+  --black: #212529;
+}
+
+/* Generic btn */
+[data-bs-theme="dark"] .btnDefault {
+  background-color: var(--main-dark);
+  outline: none;
+  border: none;
+  transition: background-color 150ms ease-in-out;
+}
+[data-bs-theme="dark"] .btnDefault:hover {
+  background-color: var(--main);
+}
+
+/* Generic input */
+[data-bs-theme="dark"] .iptDefault {
+  background-color: var(--ipt-bg);
+  outline: none;
+  border: none;
+  position: relative;
+  border-radius: 0;
+  line-height: 2rem;
+  border-bottom: 2.3px solid var(--main);
+  color: var(--text-color);
+  transition: border-color 150ms linear;
+}
+[data-bs-theme="dark"] .iptDefault:hover {
+  border-color: var(--main-light);
+}
+[data-bs-theme="dark"] .iptDefault:focus {
+  border-color: var(--yellow);
+}
+[data-bs-theme="dark"] .iptDefault::placeholder {
+  color: var(--grey);
+}

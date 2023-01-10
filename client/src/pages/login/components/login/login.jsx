@@ -1,76 +1,29 @@
-import React, { useState } from "react";
-
-// MUI imports
-import FormControl from '@mui/material/FormControl';
-import OutlinedInput from '@mui/material/OutlinedInput';
-import InputLabel from '@mui/material/InputLabel';
-import InputAdornment from '@mui/material/InputAdornment';
-import IconButton from '@mui/material/IconButton';
-import Box from "@mui/material/Box";
-import { Button, TextField, Typography } from "@mui/material";
-import Visibility from '@mui/icons-material/Visibility';
-import VisibilityOff from '@mui/icons-material/VisibilityOff';
-
-// CSS
+import React from "react";
 import "./loginStyle.css";
 
 const Login = () => {
-  const [passwordVisibility, setPasswordVisibility] = useState(false);
-
-  const handleClickShowPassword = () => setPasswordVisibility(!passwordVisibility);
-
   return (
-    <form>
-      <Box className="containerText">
-        <Typography variant="h5" color="primary">
+    <div className="container">
+      <div className="container d-flex flex-column align-items-center mt-5">
+        <h4 className="loginMsg">
           Login with your account.
-        </Typography>
-        <hr/>
-        <Typography className="createAccountMsg">
-          If you don't have one, <span id="spCreateAccount">click here</span> to create a new account.
-        </Typography>
-      </Box>
+        </h4>
+        <hr className="w-75"/>
+      </div>
 
-      <Box>
-        <FormControl sx={{ m: 1, width: '60%' }} variant="outlined">
-          <TextField
-            id="iptUserName"
-            type="text"
-            label="User Name"
-            required="true"
-            focused
-          >
-          </TextField>
-        </FormControl>
+      <form className="d-flex flex-column mt-4 mb-2">
+        <div className="mb-4 row d-flex flex-column align-items-center">
+          <input type="text" id="iptUserName" className="w-75 iptDefault" placeholder="User name"/>
+        </div>
+        <div className="mb-5 row d-flex flex-column align-items-center">
+          <input type="password" id="iptUserPassword" className="w-75 iptDefault" placeholder="Password"/>
+        </div>
 
-        <FormControl sx={{ m: 1, width: '60%' }} variant="outlined">
-          <InputLabel htmlFor="iptUserPassword">Password</InputLabel>
-          <OutlinedInput
-            id="iptUserPassword"
-            type={passwordVisibility ? 'text' : 'password'}
-            required="true"
-            endAdornment={
-              <InputAdornment position="end">
-                <IconButton
-                  aria-label="toggle password visibility"
-                  onClick={handleClickShowPassword}
-                  edge="end"
-                >
-                  {passwordVisibility ? <VisibilityOff /> : <Visibility />}
-                </IconButton>
-              </InputAdornment>
-            }
-            label="Password"
-          />
-        </FormControl>
-      </Box>
-
-      <Box className="containerButtons">
-        <Button variant="contained" id="btnLogin">
-          Login
-        </Button>
-      </Box>
-    </form>
+        <div className="mt-5 mb-4 row d-flex flex-column align-items-center">
+          <button className="btn btn-primary w-50 btnDefault">Login</button>
+        </div>
+      </form>
+    </div>
   )
 }
 
