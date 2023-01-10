@@ -1,0 +1,21 @@
+:root {
+  --dark-blue: #060D2F;
+  --blue: #062548;
+  --light-blue: #065a82;
+  --lighter-blue: #65ddf9de;
+  --white: #f8f9fa;
+  --red: #c71f37;
+  --yellow: #ffd000;
+  --black: #212529;
+}
+
+body, html, .App {
+  margin: 0;
+  font-family: -apple-system, 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  height: 100vh;
+  width: 100vw;
+}

@@ -1,0 +1,29 @@
+.containerLogin {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 0 auto;
+  height: 50%;
+  margin-top: 3%;
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+  transition: border-color 450ms linear, box-shadow 600ms linear;
+
+  /* From https://css.glass */
+  background: rgba(67, 193, 193, 0.08);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(0.5px);
+  -webkit-backdrop-filter: blur(0.5px);
+  border: 1px solid rgba(67, 193, 193, 0.17);
+}
+
+.containerLogin:hover {
+  border-color: var(--lighter-blue);
+  box-shadow: rgba(101, 222, 249, 0.299) 0px 19px 38px, rgba(101, 222, 249, 0.082) 0px 15px 12px;
+}
+
+.logoIN {
+  font-size: 24px;
+  color: var(--lighter-blue);
+}

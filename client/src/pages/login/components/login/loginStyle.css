@@ -1,0 +1,32 @@
+.containerText {
+  margin: 0 auto;
+  width: 65%;
+  margin-top: 7%;
+  margin-bottom: 5%;
+}
+.createAccountMsg {
+  margin-top: 8%;
+}
+.logoText {
+  font-size: 24px;
+  color: var(--lighter-blue);
+}
+
+.containerButtons {
+  margin-top: 13%;
+  display: flex;
+  justify-content: center;
+}
+#btnLogin {
+  width: 60%;
+}
+
+#spCreateAccount {
+  color: var(--lighter-blue);
+  transition: color 150ms linear;
+}
+#spCreateAccount:hover {
+  text-decoration: underline;
+  color: var(--yellow);
+  cursor: pointer;
+}
