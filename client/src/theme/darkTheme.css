@@ -9,6 +9,7 @@
   --red: #c71f37;
   --yellow: #ffd000;
   --black: #212529;
+  --bg-modal: #0f1d60;
 }
 
 /* Generic btn */
@@ -24,7 +25,7 @@
 
 /* Generic input */
 [data-bs-theme="dark"] .iptDefault {
-  background-color: var(--ipt-bg);
+  background-color: #032a3c;
   outline: none;
   border: none;
   position: relative;

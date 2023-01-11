@@ -1,11 +1,13 @@
 import React from "react";
 import "./loginIndexStyle.css";
 import { ReactComponent as Logo } from "assets/admin-logo.svg";
+import { ReactComponent as LoginBg } from "assets/login-background.svg"
 import { Outlet, NavLink } from "react-router-dom";
 
 const LoginIndex = () => {
   return (
     <div className="container d-flex flex-column align-center text-center">
+      <LoginBg id="loginBg" />
       <div className="row mt-5">
         <Logo />
         <h1 className="logoTitle">U<span className="logoIN">.in</span> -Control</h1>
@@ -26,7 +28,7 @@ const LoginIndex = () => {
           </NavLink>
         </div>
         
-        <div className="row">
+        <div initial={{opacity: 0}}  exit={{opacity: 0}} className="row">
           <Outlet />
         </div>
       </div>

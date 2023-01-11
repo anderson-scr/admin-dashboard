@@ -6,6 +6,11 @@
 .logoTitle {
   font-size: 3rem;
 }
+#loginBg {
+  position: absolute;
+  right: 7%;
+  opacity: .4;
+}
 
 /* Container Login */
 .containerLoginIndex {
@@ -14,7 +19,7 @@
   justify-content: flex-start;
   align-items: center;
   margin: 0 auto;
-  height: 50%;
+  min-height: 580px;
   width: 35%;
   overflow: hidden;
   margin-top: 3%;

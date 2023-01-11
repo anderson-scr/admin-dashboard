@@ -8,12 +8,11 @@
   color: var(--main-light);
   margin-bottom: 0;
 }
-#spCreateAccount {
-  color: var(--lighter-blue);
-  transition: color 150ms linear;
+#forgotLogin {
+  color: var(--main-light);
 }
-#spCreateAccount:hover {
-  text-decoration: underline;
+#forgotLogin:hover {
   color: var(--yellow);
+  text-decoration: underline;
   cursor: pointer;
 }
