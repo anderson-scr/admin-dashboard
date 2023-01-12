@@ -1,5 +1,6 @@
 [data-bs-theme="dark"] {
   --bg-color: #060D2F;
+  --bg-color-light: #08113f;
   --text-color: #f8f9fa;
   --main-dark: #07405a;
   --main: #065a82;
@@ -21,6 +22,15 @@
 }
 [data-bs-theme="dark"] .btnDefault:hover {
   background-color: var(--main);
+}
+[data-bs-theme="dark"] .btnDefault-Outline {
+  background-color: transparent;
+  outline: none;
+  border: 1px solid var(--main);
+  transition: border-color 150ms ease-in-out;
+}
+[data-bs-theme="dark"] .btnDefault-Outline:hover {
+  border-color: var(--yellow);
 }
 
 /* Generic input */

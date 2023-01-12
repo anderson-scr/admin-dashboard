@@ -1,6 +1,6 @@
 import React from 'react'
 import { BrowserRouter } from "react-router-dom";
-import { useDispatch, useSelector } from "react-redux";
+import { useSelector } from "react-redux";
 import { useEffect } from "react";
 import RoutesIndex from "routes/routes";
 import MessageModal from "common/components/messageModal/messageModal";

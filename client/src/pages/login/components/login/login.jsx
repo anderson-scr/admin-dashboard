@@ -1,10 +1,13 @@
 import React from "react";
-import { useDispatch } from "react-redux";
-import { showModal } from "redux/slices/messageModalSlice";
+import { NavLink, useNavigate } from "react-router-dom";
 import "./loginStyle.css";
 
 const Login = () => {
-  const dispatch = useDispatch();
+  const navigate = useNavigate();
+
+  const handleUserLogin = () => {
+    navigate("/Dashboard");
+  }
 
   return (
     <div className="container">
@@ -24,13 +27,12 @@ const Login = () => {
         </div>
         <div className="mb-5 row d-flex flex-column align-items-center">
           <label className="form-check-label" htmlFor="exampleCheck1">Forgot your password or user name? {" "}
-            <span id="forgotLogin" onClick={() => dispatch(showModal())}>Click here.</span>
+            <NavLink to="/ForgotPassword" id="forgotLogin">Click here.</NavLink>
           </label>
         </div>
 
-
         <div className="mt-5 mb-4 row d-flex flex-column align-items-center">
-          <button className="btn btn-primary w-50 btnDefault">Login</button>
+          <button className="btn btn-primary w-50 btnDefault" onClick={handleUserLogin}>Login</button>
         </div>
       </form>
     </div>

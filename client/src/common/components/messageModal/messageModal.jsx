@@ -1,21 +1,25 @@
-import React, { useEffect } from 'react'
-import { useDispatch } from 'react-redux';
-import { showModal } from 'redux/slices/messageModalSlice';
-import "./messageModalStyle.css"
+import React, { useEffect } from 'react';
+import { useDispatch, useSelector } from 'react-redux';
+import { hideModal } from 'redux/slices/messageModalSlice';
+import "./messageModalStyle.css";
 
 // Icons
 import { CiWarning } from "react-icons/ci";
 import { MdOutlineCancel, MdOutlineDoneAll } from "react-icons/md";
 
-const MessageIndex = ({title = "Modal Title"}, icon, bodyText) => {
+const MessageIndex = () => {
   const dispatch = useDispatch();
+  const { icon } = useSelector(state => state.showMessageModal);
+  const { title } = useSelector(state => state.showMessageModal);
+  const { bodyText } = useSelector(state => state.showMessageModal);
+
   const icons = {
     "success": <MdOutlineDoneAll size={100} className="icon-success" />,
     "warning": <CiWarning size={100} className="icon-warning" />,
     "error": <MdOutlineCancel size={100} className="icon-error" />
   }
   useEffect(() => {
-    console.log("Message Modal runned once.")
+    console.log("Message Modal started once.");
   }, []);
 
   return (
@@ -37,7 +41,7 @@ const MessageIndex = ({title = "Modal Title"}, icon, bodyText) => {
         <section className='modalFooter'>
           <hr />
           <div className="container d-flex justify-content-end">
-            <button className='btn btn-primary w-25 btnDefault' onClick={() => dispatch(showModal())}>
+            <button className='btn btn-primary w-25 btnDefault' onClick={() => dispatch(hideModal())}>
               Ok
             </button>
           </div>
