@@ -7,11 +7,21 @@
 .container-option {
   height: 35px;
   transition: background-color 200ms linear;
+  border: none;
+  text-decoration: none;
+  color: var(--white);
 }
 .container-option:hover {
   background-color: var(--main);
   cursor: pointer;
+  color: var(--white);
 }
 .container-option p, div {
   line-height: 35px;
+  z-index: 2;
+}
+.active {
+  color: var(--white);
+  z-index: 1;
+  background-color: #ffd00054;
 }

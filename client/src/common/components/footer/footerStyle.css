@@ -2,3 +2,23 @@
   width: 100%;
   height: 4vh;
 }
+.aGithubLinkedin {
+  color: var(--main-light);
+  margin-bottom: 5px;
+  text-decoration: none;
+  transition: color 150ms linear;
+}
+.aGithubLinkedin:hover {
+  text-decoration: underline;
+  color: var(--yellow);
+  cursor: pointer;
+}
+.pFooter {
+  color: rgb(126, 126, 126);
+}
+.topLine {
+  background-color: rgb(126, 126, 126);
+  height: 2px;
+  width: 97%;
+  margin: 0 auto;
+}

@@ -54,3 +54,8 @@
 [data-bs-theme="dark"] .iptDefault::placeholder {
   color: var(--grey);
 }
+
+
+[data-bs-theme="dark"] .showBorder {
+  border: 1px solid red;
+}

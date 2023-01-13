@@ -1,7 +1,18 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
+import { useForm } from "react-hook-form";
+import { schemaForgotPassword } from "validation/yupForgotPassword";
+import { yupResolver } from "@hookform/resolvers/yup"
 
 const ForgotPassword = () => {
+  const { register, handleSubmit, formState: {errors} } = useForm({
+    resolver: yupResolver(schemaForgotPassword)
+  });
+
+  const onSubmit= (data) => {
+    console.log(data);
+  };
+
   return (
     <div className="container">
       <div className="container d-flex flex-column align-items-center mt-5">
@@ -14,9 +25,12 @@ const ForgotPassword = () => {
         </p>
       </div>
 
-      <form className="d-flex flex-column mt-4 mb-2">
+      <form className="d-flex flex-column mt-4 mb-2" onSubmit={handleSubmit(onSubmit)}>
         <div className="mb-4 row d-flex flex-column align-items-center">
-          <input type="text" id="iptUserEmail" className="w-75 iptDefault" placeholder="Email"/>
+          <input type="text" id="iptUserEmail" className="w-75 iptDefault" placeholder="Email" {...register("email")}/>
+          <div style={{height: "40px", color: "var(--red)", fontWeight: "600"}}>
+            <p>{ errors.email?.message }</p>
+          </div>
         </div>
 
         <div className="mt-5 mb-4 row d-flex flex-column align-items-center">
@@ -24,7 +38,7 @@ const ForgotPassword = () => {
         </div>
       </form>
       
-      <div className="mt-5 mb-4 row d-flex flex-column align-items-center">
+      <div className="mt-2 mb-4 row d-flex flex-column align-items-center">
         <NavLink to="/Login">
           <button className="btn btn-primary w-50 btnDefault-Outline">
             Back

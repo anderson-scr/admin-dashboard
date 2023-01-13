@@ -2,3 +2,13 @@
   width: 100%;
   height: 10vh;
 }
+.containerH1 {
+  padding-left: 4%;
+  margin-top: 1%;
+}
+.headerLine {
+  height: 2px;
+  width: 97%;
+  background-color: rgb(126, 126, 126);
+  margin: 0 auto;
+}

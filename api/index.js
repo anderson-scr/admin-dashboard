@@ -36,6 +36,6 @@ app.use((err, req, res, next) => {
 app.listen(port, () => console.log(`Server listening on port: http://localhost:${port}`));
 
 // Import route index
-// app.use(require('./routes/routesIndex'));
+app.use(require("./routes/routesIndex"));
 
 app.use(express.static(path.join(__dirname, "public")));

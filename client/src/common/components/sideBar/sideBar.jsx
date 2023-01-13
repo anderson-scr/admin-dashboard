@@ -17,7 +17,7 @@ const SideBar = () => {
 
       <section className="container">
         <div className="row mt-5 d-flex flex-column align-items-end">
-          <GenericOption icon={<SlScreenTablet size={25} />} name="Dashboard"/>
+          <GenericOption icon={<SlScreenTablet size={25} />} name="Dashboard" path="/Dashboard"/>
         </div>
       </section>
 
@@ -26,25 +26,25 @@ const SideBar = () => {
           <div className="mb-1 mt-3 navSectionName">
             Client Facing
           </div>
-          <GenericOption icon={<BsCart2 size={25} />}  name="Products"/>
-          <GenericOption icon={<BsPeople size={25} />} name="Customers"/>
-          <GenericOption icon={<BsFileMedical size={25} />} name="Transactions"/>
+          <GenericOption icon={<BsCart2 size={25} />}  name="Products" path="/Products"/>
+          <GenericOption icon={<BsPeople size={25} />} name="Customers" path="/Customers"/>
+          <GenericOption icon={<BsFileMedical size={25} />} name="Transactions" path="/Transactions"/>
         </div>
 
         <div className="row d-flex flex-column align-items-end">
           <div className="mb-1 mt-2 navSectionName">
             Management
           </div>
-          <GenericOption name="Admin" icon={<BsShieldLock size={25} />} />
-          <GenericOption name="Performance" icon={<BsSortNumericUpAlt size={25} />} />
+          <GenericOption name="Admin" icon={<BsShieldLock size={25} />} path="/Admin"/>
+          <GenericOption name="Performance" icon={<BsSortNumericUpAlt size={25} />} path="/Performance"/>
         </div>
 
         <div className="row d-flex flex-column align-items-end">
           <div className="mb-1 mt-2 navSectionName">
             User
           </div>
-          <GenericOption name="Config" icon={<BsGear size={25} />} />
-          <GenericOption name="Logout" icon={<BsBoxArrowLeft size={25} />} />
+          <GenericOption name="Config" icon={<BsGear size={25} />} path="/Config"/>
+          <GenericOption name="Logout" icon={<BsBoxArrowLeft size={25} />} path="/Login"/>
         </div>
       </section>
     </nav>

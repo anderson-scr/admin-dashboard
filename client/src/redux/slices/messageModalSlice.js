@@ -10,11 +10,10 @@ export const messageModalSlice = createSlice({
   },
   reducers: {
     showModal: (state, actions) => {
-      if(typeof actions.payload == Array) {
-        state.icon = actions.payload[0];
-        state.title = actions.payload[1];
-        state.bodyText = actions.payload[2];
-      }
+      state.icon = actions.payload[0];
+      state.title = actions.payload[1];
+      state.bodyText = actions.payload[2];
+
       state.showMessageModal? state.showMessageModal = false : state.showMessageModal = true;
     },
     hideModal: state => {
