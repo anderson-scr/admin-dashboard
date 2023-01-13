@@ -1,3 +1,17 @@
-.optionName {
+.container-name {
   white-space: nowrap;
+}
+.container-icon {
+  margin-left: 10%;
+}
+.container-option {
+  height: 35px;
+  transition: background-color 200ms linear;
+}
+.container-option:hover {
+  background-color: var(--main);
+  cursor: pointer;
+}
+.container-option p, div {
+  line-height: 35px;
 }

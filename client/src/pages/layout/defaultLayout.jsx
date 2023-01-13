@@ -10,7 +10,7 @@ const DefaultLayout = () => {
       <div className="d-flex flex-column justify-content-between w-100">
         <Header />
         <section>
-          Main section
+          
         </section>
         <Footer />
       </div>

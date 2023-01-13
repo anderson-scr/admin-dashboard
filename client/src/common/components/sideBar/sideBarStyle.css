@@ -2,6 +2,9 @@
   height: 100vh;
   width: 11vw;
   background-color: var(--bg-color-light);
+  -webkit-box-shadow: 7px -1px 34px -6px rgba(12,0,46,1);
+  -moz-box-shadow: 7px -1px 34px -6px rgba(12,0,46,1);
+  box-shadow: 7px -1px 34px -6px rgba(12,0,46,1);
 }
 
 .containerLogo span {
@@ -10,13 +13,6 @@
 }
 .containerLogo p {
   font-size: 24px;
-}
-/* .containerLogo {
-  padding-bottom: 2vh;
-} */
-
-.containerNav {
-  overflow: hidden;
 }
 .navSectionName {
   color: var(--lighter-blue);
