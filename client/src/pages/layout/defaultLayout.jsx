@@ -16,7 +16,7 @@ const DefaultLayout = () => {
       <SideBar handleTile={ handleHeaderTile }/>
       <div className="d-flex flex-column justify-content-between w-100">
         <Header title={headerTitle}/>
-        <section>
+        <section className="m-5 h-100">
           <Outlet />
         </section>
         <Footer />

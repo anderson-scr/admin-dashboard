@@ -1,0 +1,9 @@
+.showDetails:hover {
+  color: var(--yellow);
+  text-decoration: underline;
+  cursor: pointer;
+}
+.titleCard {
+  font-weight: 600;
+  color: var(--main-light);
+}

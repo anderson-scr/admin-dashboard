@@ -13,6 +13,7 @@ const port = process.env.API_PORT || 3003;
 
 // Global save for the root path
 global.__basedir = __dirname;
+global.__atWork = true;
 
 app.use(helmet());
 app.use(helmet.crossOriginResourcePolicy({ policy: "cross-origin" }))
