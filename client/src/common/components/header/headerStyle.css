@@ -6,6 +6,9 @@
   padding-left: 4%;
   margin-top: 1%;
 }
+.containerH1 h1 {
+  margin-left: 5%;
+}
 .headerLine {
   height: 2px;
   width: 97%;
@@ -16,33 +19,33 @@
 
 /* Hamburger menu */
 .containerHamburger {
-  width: 40px;
-  height: 40px;
+  width: 30px;
+  height: 30px;
   margin-right: 3%;
   margin-bottom: 5px;
   cursor: pointer;
 }
 .hamburger {
-  width: 38px;
-  height: 5px;
+  width: 30px;
+  height: 4px;
   background-color: var(--white);
-  border-radius: 5px;
+  border-radius: 4px;
   transition: all 500ms ease-in-out;
 }
 .hamburger::before, .hamburger::after {
   content: " ";
   position: absolute;
-  width: 38px;
-  height: 5px;
+  width: 30px;
+  height: 4px;
   background-color: var(--white);
-  border-radius: 5px;
+  border-radius: 4px;
   transition: all 500ms ease-in-out;
 }
 .hamburger::before {
-  transform: translateY(-13px);
+  transform: translateY(-11px);
 }
 .hamburger::after {
-  transform: translateY(13px);
+  transform: translateY(11px);
 }
 
 /* Animation */
@@ -55,4 +58,31 @@
 }
 .containerHamburger.open .hamburger::after {
   transform: rotate(-45deg) translate(35px, 35px);
+}
+
+.container-headerOptions {
+  height: 50px;
+  margin-right: 5%;
+}
+.btnToggleTheme {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  color: var(--text-color);
+}
+.containerToggleTheme {
+  margin-right: 20px;
+}
+.containerUserImg {
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+  overflow: hidden;
+  border: 2px solid var(--text-color);
+  margin-left: 10px;
+}
+#userImage {
+  width: 38px;
+  height: 38px;
+  border-radius: 19px;
 }

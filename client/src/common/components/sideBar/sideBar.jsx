@@ -42,7 +42,7 @@ const SideBar = () => {
           <GenericOption name="Performance" icon={<BsSortNumericUpAlt size={25} />} path="/Performance"/>
         </div>
 
-        <div className="row d-flex flex-column align-items-end">
+        <div className=" mt-5 row d-flex flex-column align-items-end">
           <div className="mb-1 mt-2 navSectionName">
             User
           </div>
