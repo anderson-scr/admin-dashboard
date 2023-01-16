@@ -2,14 +2,17 @@ import React from "react";
 import "./sideBarStyle.css";
 import { ReactComponent as Logo } from "assets/admin-logo.svg";
 import GenericOption from "./components/genericOption";
+import { useSelector } from "react-redux";
 
 // Icons
 import { SlScreenTablet } from 'react-icons/sl';
 import { BsCart2, BsPeople, BsFileMedical, BsShieldLock, BsSortNumericUpAlt, BsGear, BsBoxArrowLeft } from 'react-icons/bs';
 
 const SideBar = () => {
+  const { hamburgerIsOpenSlice } = useSelector( state => state.headerTitle );
+
   return (
-    <nav className="container-sideBar d-flex flex-column align-items-center">
+    <nav className={"container-sideBar d-flex flex-column align-items-center " + hamburgerIsOpenSlice}>
       <section className="container mt-4 d-flex flex-column align-items-center containerLogo">
         <Logo />
         <p>U<span>.in</span> -Control</p>

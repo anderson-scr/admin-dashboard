@@ -20,3 +20,6 @@ body, html, .App {
   color: var(--text-color);
   overflow: hidden;
 }
+* {
+  box-sizing: border-box;
+}
