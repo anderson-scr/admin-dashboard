@@ -28,7 +28,7 @@ const Login = () => {
   };
 
   const verifyLogin = (loginData) => {
-    if(loginData.userName != "Anderson" || loginData.password != "2818") throw ["warning", "User name or password invalid.", "Please, verify your login information."]
+    if(loginData.userName !== "Anderson" || loginData.password !== "2818") throw ["warning", "User name or password invalid.", "Please, verify your login information."]
   }
 
   return (

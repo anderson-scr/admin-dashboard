@@ -3,20 +3,16 @@ const cors = require("cors");
 const morgan = require("morgan");
 const helmet = require("helmet");
 const path = require("path");
-// const dbConn = require("./db/connect");
+const dbConn = require("./db/connect");
 require("dotenv").config();
 
 // Configs
 const app = express();
 app.use(cors());
-const port = process.env.PORT || 3003;
+const port = process.env.API_PORT || 3003;
 
 // Global save for the root path
 global.__basedir = __dirname;
-
-// Configures the database and opens a global connection that can be used in any module with `mongoose.connection`
-// dbConn.connect();
-// dbConn.onConnection();
 
 app.use(helmet());
 app.use(helmet.crossOriginResourcePolicy({ policy: "cross-origin" }))

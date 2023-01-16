@@ -20,8 +20,8 @@
   line-height: 35px;
   z-index: 2;
 }
-.active {
+.active.container-option {
   color: var(--white);
   z-index: 1;
-  background-color: #ffd00054;
+  background-color: var(--main);
 }

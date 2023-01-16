@@ -1,4 +1,4 @@
-exports.login = (req, res, _next) => {
+exports.login = async (req, res, _next) => {
   if (!Object.keys(req.body).length)
 		return res.status(400).json({ success: false, msg: "Bad request. Please, check the request structure" });
 
@@ -7,4 +7,8 @@ exports.login = (req, res, _next) => {
 
     if(username == "Anderson" && password == "2818") 
       res.status(200).json({ success: true });
-}
+};
+
+exports.all = (req, res, _next) => {
+  res.send("Called the all users route");
+};

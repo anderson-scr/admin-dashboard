@@ -1,42 +1,23 @@
-const mongoose = require('mongoose');
-require('dotenv').config();
+const mysql = require("mysql2");
+require("dotenv").config();
 
-exports.connect = () => { 
-    mongoose.connect(process.env.MONGO_URL, {
-        useNewUrlParser: true,
-        useUnifiedTopology: true
-    })
-};
+const pool = mysql.createPool({
+  host: process.env.DB_HOST,
+  user: process.env.DB_USER,
+  database: process.env.DB_DATABASE,
+  password: process.env.DB_PASSWORD,
+  waitForConnections: true,
+  connectionLimit: 10,
+  queueLimit: 5
+});
 
-exports.onConnection = () => {
-    mongoose.connection.on('connected', () => {
-        console.log('Database connected');
-    });
-} 
+pool.getConnection((err, conn) => {
+  if(err) {
+    console.log("Something went wrong when connecting to DB: ", err.sqlMessage);
+    return;
+  }
+  console.log("Connection established to the DB.");
+  pool.releaseConnection(conn);
+});
 
-// If the connection throws an error
-exports.onError = () => {
-    mongoose.connection.on("error", (err) => {
-        console.error('Failed to connect to DB' , err);
-    });
-} 
-
-// When the connection is reconnected
-exports.onReconnect = () => {
-    mongoose.connection.on('reconnected', () => {
-        console.log('Reconnected to DB');
-    });
-}
-// When the connection is disconnected
-exports.onDisconnect = () => {
-    mongoose.connection.on('disconnected', () => {
-        console.log('Database disconnected');
-    });
-} 
-
-exports.disconnect = () => { 
-    mongoose.connection.close( () =>{
-        console.log('Database is disconnected through app termination');
-        process.exit(0);
-    });
-}
+module.exports = pool.promise();
