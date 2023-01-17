@@ -16,10 +16,7 @@ const Dashboard = () => {
         <Card title="Monthly New Costumers" icon={<BsPeople size={27}/>} value="73"/>
         <Card title="Low Stock Products" icon={<BsCart2 size={27}/>} value="13"/>
       </div>
-      <div className="row m-1 mt-3">
-        <h3>General</h3>
-      </div>
-      <div className="containerTableBreakdown row m-1 d-flex">
+      <div className="containerTableBreakdown row m-1 mt-5 d-flex">
         <DashboardTable />
         <DashboardBreakdown />
       </div>

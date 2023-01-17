@@ -39,7 +39,7 @@ const DashboardBreakdown = () => {
 
   return (
     <ElementContainer colSize="5">
-      <h4 className="mt-3">Sales per Category</h4>
+      <h4 className="mt-3" style={{color: "var(--main-light)", fontWeight: "600"}}>Sales per Category</h4>
       <div className="containerPieChatDashboard">
         <PieChart data={ data }/>
       </div>
