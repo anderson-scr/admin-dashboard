@@ -1,6 +1,6 @@
 [data-bs-theme="blue"] {
-  --bg-color: #121212;
-  --bg-color-light: #212121;
+  --bg-color: #060D2F;
+  --bg-color-light: #010d48;
   --text-color: #f8f9fa;
   --main-blue: #023349;
   --main: #065a82;
@@ -14,27 +14,27 @@
 }
 
 /* Generic btn */
-[data-bs-theme="dark"] .btnDefault {
-  background-color: var(--main-dark);
+[data-bs-theme="blue"] .btnDefault {
+  background-color: var(--main-blue);
   outline: none;
   border: none;
   transition: background-color 150ms ease-in-out;
 }
-[data-bs-theme="dark"] .btnDefault:hover {
+[data-bs-theme="blue"] .btnDefault:hover {
   background-color: var(--main);
 }
-[data-bs-theme="dark"] .btnDefault-Outline {
+[data-bs-theme="blue"] .btnDefault-Outline {
   background-color: transparent;
   outline: none;
   border: 1px solid var(--main);
   transition: border-color 150ms ease-in-out;
 }
-[data-bs-theme="dark"] .btnDefault-Outline:hover {
+[data-bs-theme="blue"] .btnDefault-Outline:hover {
   border-color: var(--yellow);
 }
 
 /* Generic input */
-[data-bs-theme="dark"] .iptDefault {
+[data-bs-theme="blue"] .iptDefault {
   background-color: #032a3c;
   outline: none;
   border: none;
@@ -45,13 +45,13 @@
   color: var(--text-color);
   transition: border-color 150ms linear;
 }
-[data-bs-theme="dark"] .iptDefault:hover {
+[data-bs-theme="blue"] .iptDefault:hover {
   border-color: var(--main-light);
 }
-[data-bs-theme="dark"] .iptDefault:focus {
+[data-bs-theme="blue"] .iptDefault:focus {
   border-color: var(--yellow);
 }
-[data-bs-theme="dark"] .iptDefault::placeholder {
+[data-bs-theme="blue"] .iptDefault::placeholder {
   color: var(--grey);
 }
 
