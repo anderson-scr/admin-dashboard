@@ -56,6 +56,6 @@
 }
 
 
-[data-bs-theme="dark"] .showBorder {
+[data-bs-theme="blue"] .showBorder {
   border: 1px solid red;
 }

@@ -19,7 +19,7 @@ function App() {
   }, [mode]);
 
   return (
-    <div className="App">
+    <div className="App"> 
       <BrowserRouter>
         {showMessageModal && <MessageModal />}
         <RoutesIndex />

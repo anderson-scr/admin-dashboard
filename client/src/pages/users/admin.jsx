@@ -1,10 +1,10 @@
 import React from "react";
 import "./adminStyle.css";
 
-const Admin = () => {
+const Users = () => {
   return (
-    <div>Admin</div>
+    <div>Users</div>
   )
 }
 
-export default Admin;
+export default Users;

@@ -1,10 +1,10 @@
-[data-bs-theme="blue"] {
+[data-bs-theme="dark"] {
   --bg-color: #121212;
   --bg-color-light: #212121;
   --text-color: #f8f9fa;
   --main-blue: #023349;
   --main: #065a82;
-  --main-light: #65ddf9de;
+  --main-light: #65DDF9;
   --grey: #ccc;
   --ipt-bg: #393f54cc;
   --red: #c71f37;

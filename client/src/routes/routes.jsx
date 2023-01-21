@@ -11,8 +11,8 @@ import Dashboard from "pages/dashboard/dashboard";
 import Products from "pages/products/products";
 import Customers from "pages/customers/customers";
 import Transactions from "pages/transactions/transactions";
-import Admin from "pages/admin/admin";
-import Performance from "pages/performance/performance";
+import Users from "pages/users/admin";
+import Permissions from "pages/permissions/performance";
 import Config from "pages/config/config";
 
 
@@ -32,8 +32,8 @@ const RoutesIndex = () => {
             <Route path="/Products" element={ <Products/> }/>
             <Route path="/Customers" element={ <Customers/> }/>
             <Route path="/Transactions" element={ <Transactions/> }/>
-            <Route path="/Admin" element={ <Admin/> }/>
-            <Route path="/Performance" element={ <Performance/> }/>
+            <Route path="/Users" element={ <Users/> }/>
+            <Route path="/Permissions" element={ <Permissions/> }/>
             <Route path="/Config" element={ <Config/> }/>
           </Route>
         </Routes>

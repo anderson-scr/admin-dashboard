@@ -6,7 +6,7 @@ import { useSelector } from "react-redux";
 
 // Icons
 import { SlScreenTablet } from 'react-icons/sl';
-import { BsCart2, BsPeople, BsFileMedical, BsShieldLock, BsSortNumericUpAlt, BsGear, BsBoxArrowLeft } from 'react-icons/bs';
+import { BsCart2, BsPeople, BsFileMedical, BsShieldLock, BsPersonBadge, BsGear, BsBoxArrowLeft, BsAlt, BsClipboardData } from 'react-icons/bs';
 
 const SideBar = () => {
   const { hamburgerIsOpenSlice } = useSelector( state => state.headerTitle );
@@ -19,30 +19,33 @@ const SideBar = () => {
       </section>
 
       <section className="container">
-        <div className="row mt-5 d-flex flex-column align-items-end">
+        <div className="row mt-4 d-flex flex-column align-items-end">
           <GenericOption icon={<SlScreenTablet size={25} />} name="Dashboard" path="/Dashboard"/>
         </div>
       </section>
 
       <section className="container">
         <div className="row d-flex flex-column align-items-end">
-          <div className="mb-1 mt-3 navSectionName">
-            Client Facing
+          <div className="mb-1 mt-2 navSectionName">
+            Management
           </div>
           <GenericOption icon={<BsCart2 size={25} />}  name="Products" path="/Products"/>
           <GenericOption icon={<BsPeople size={25} />} name="Customers" path="/Customers"/>
           <GenericOption icon={<BsFileMedical size={25} />} name="Transactions" path="/Transactions"/>
+          <GenericOption name="Users" icon={<BsPersonBadge size={25} />} path="/Users"/>
+          <GenericOption name="Permissions" icon={<BsShieldLock size={25} />} path="/Permissions"/>
         </div>
 
         <div className="row d-flex flex-column align-items-end">
           <div className="mb-1 mt-2 navSectionName">
-            Management
+            Charts
           </div>
-          <GenericOption name="Admin" icon={<BsShieldLock size={25} />} path="/Admin"/>
-          <GenericOption name="Performance" icon={<BsSortNumericUpAlt size={25} />} path="/Performance"/>
+          <GenericOption name="Customers" icon={<BsAlt size={25} />} path="/ChartCustomers"/>
+          <GenericOption name="Products" icon={<BsClipboardData size={25} />} path="/ChartProducts"/>
+          <GenericOption name="Sales" icon={<BsAlt size={25} />} path="/ChartSales"/>
         </div>
 
-        <div className=" mt-5 row d-flex flex-column align-items-end">
+        <div className="row d-flex flex-column align-items-end">
           <div className="mb-1 mt-2 navSectionName">
             User
           </div>

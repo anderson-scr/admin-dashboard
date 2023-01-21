@@ -8,7 +8,7 @@ import DashboardBreakdown from "./components/dashboardBreakdown/dashboardBreakdo
 
 const Dashboard = () => {
   return (
-    <section className="containerDashboard">
+    <section className="containerDashboard h-100">
       <div className="containerCards row m-1 d-flex">
         <Card title="Today Sales" icon={<BsCash size={27}/>} value="$ 3042,08"/>
         <Card title="Monthly Sales" icon={<BsCash size={27}/>} value="$ 65.342,22"/>
@@ -16,7 +16,7 @@ const Dashboard = () => {
         <Card title="Monthly New Costumers" icon={<BsPeople size={27}/>} value="73"/>
         <Card title="Low Stock Products" icon={<BsCart2 size={27}/>} value="13"/>
       </div>
-      <div className="containerTableBreakdown row m-1 mt-5 d-flex">
+      <div className="containerTableBreakdown h-75 row m-1 mt-3 d-flex">
         <DashboardTable />
         <DashboardBreakdown />
       </div>

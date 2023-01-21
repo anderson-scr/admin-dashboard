@@ -17,7 +17,7 @@ const Header = () => {
 
   useEffect(() => {
     dispatch(changeTitle("Dashboard"));
-  }, []);
+  }, [dispatch]);
 
   const handleHamburgerIsOpen = () => {
     if(isHamburgerOpen) {
@@ -48,7 +48,7 @@ const Header = () => {
           </div>
           Anderson Salles
           <div className="containerUserImg">
-            <img src={ user_temp } alt="User image" id="userImage" />
+            <img src={ user_temp } alt="User" id="userImage" />
           </div>
         </div>
       </div>

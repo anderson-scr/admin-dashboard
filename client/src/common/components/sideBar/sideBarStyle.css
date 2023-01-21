@@ -10,10 +10,10 @@
 }
 .containerLogo span {
   color: var(--lighter-blue);
-  font-size: 14px;
+  font-size: 1.4rem;
 }
 .containerLogo p {
-  font-size: 24px;
+  font-size: 2rem;
 }
 .navSectionName {
   color: var(--lighter-blue);

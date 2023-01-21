@@ -1,7 +1,7 @@
 import React from "react";
 import "./customersStyle.css";
 import { mockDataCustomers } from "api/mock/mockDataCustomers";
-import { DataGrid } from "@mui/x-data-grid";
+import { DataGrid, GridToolbar } from "@mui/x-data-grid";
 import ElementContainer from "common/components/elementContainer/elementContainer";
 import { Box } from "@mui/material";
 
@@ -42,11 +42,18 @@ const Customers = () => {
           },
           "& .MuiTablePagination-displayedRows": {
             margin: "0 !important"
+          },
+          "& .MuiDataGrid-row": {
+            borderBottom: "1px solid #414141"
+          },
+          "& .MuiDataGrid-toolbarContainer .MuiButton-text": {
+            color: "var(--text-color)"
           }
         }}>
           <DataGrid 
-            rows={mockDataCustomers}
-            columns={columns}
+            rows = { mockDataCustomers }
+            columns = { columns }
+            components = { {Toolbar: GridToolbar} }
           />
         </Box>
       </div>
