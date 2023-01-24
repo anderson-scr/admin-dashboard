@@ -1,5 +1,5 @@
 export const apiRoutes = {
   user: {
-    login: "user/login"
+    login: "users/login"
   }
 };

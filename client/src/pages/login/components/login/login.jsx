@@ -1,11 +1,12 @@
 import React from "react";
-import { NavLink, useNavigate } from "react-router-dom";
 import "./loginStyle.css";
+import { NavLink, useNavigate } from "react-router-dom";
 import { useForm } from "react-hook-form";
 import { yupResolver } from "@hookform/resolvers/yup"
 import { schemaLogin } from "validation/yupLogin";
 import { useDispatch } from "react-redux";
 import { showModal } from "redux/slices/messageModalSlice";
+import { apiUsers } from "api/userController";
 
 const Login = () => {
   const navigate = useNavigate();
@@ -20,8 +21,9 @@ const Login = () => {
 
   const onSubmit= (data) => {
     try {
-      verifyLogin(data);
-      redirect();
+      apiUsers.login(data);
+      // verifyLogin(data);
+      // redirect();
     } catch (error) {
       dispatch(showModal(error));
     }

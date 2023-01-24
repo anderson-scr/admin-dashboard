@@ -1,6 +1,5 @@
 import React from "react";
 import "./customersStyle.css";
-import { mockDataCustomers } from "api/mock/mockDataCustomers";
 import { DataGrid, GridToolbar } from "@mui/x-data-grid";
 import ElementContainer from "common/components/elementContainer/elementContainer";
 import { Box } from "@mui/material";
@@ -51,7 +50,7 @@ const Customers = () => {
           }
         }}>
           <DataGrid 
-            rows = { mockDataCustomers }
+            rows = {[]}
             columns = { columns }
             components = { {Toolbar: GridToolbar} }
           />
