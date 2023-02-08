@@ -15,13 +15,13 @@
 
 /* Generic btn */
 [data-bs-theme="dark"] .btnDefault {
-  background-color: var(--main-dark);
+  background-color: var(--main);
   outline: none;
   border: none;
   transition: background-color 150ms ease-in-out;
 }
 [data-bs-theme="dark"] .btnDefault:hover {
-  background-color: var(--main);
+  background-color: var(--main-light);
 }
 [data-bs-theme="dark"] .btnDefault-Outline {
   background-color: transparent;

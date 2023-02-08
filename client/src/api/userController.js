@@ -3,12 +3,12 @@ import axios from "./config/defaultConnection";
 
 export const apiUsers = {
   login: async (loginData) => {
-    try {
-      const apiCall = await axios.post("http://localhost:3003/admin-dashboard/api/users/login", JSON.stringify(loginData));
-
-      console.log(apiCall)
-    } catch (error) {
-      console.log(error)
-    }
+    const apiCall = await axios.post(apiRoutes.users.login, loginData);
+    return apiCall;
+  },
+  
+  listAll: async () => {
+    const apiCall = await axios.get(apiRoutes.users.listAll);
+    return apiCall;
   }
 };

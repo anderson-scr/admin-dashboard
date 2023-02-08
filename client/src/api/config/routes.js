@@ -1,5 +1,6 @@
 export const apiRoutes = {
-  user: {
-    login: "users/login"
+  users: {
+    login: "users/login",
+    listAll: "users/listAll"
   }
 };

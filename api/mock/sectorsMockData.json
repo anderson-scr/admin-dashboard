@@ -1,0 +1,27 @@
+[
+  {
+    "sector_id": "1",
+    "ds_sector": "Cleaning",
+    "active": "1"
+  },
+  {
+    "sector_id": "2",
+    "ds_sector": "Food",
+    "active": "1"
+  },
+  {
+    "sector_id": "3",
+    "ds_sector": "Construction",
+    "active": "1"
+  },
+  {
+    "sector_id": "4",
+    "ds_sector": "Clothes",
+    "active": "1"
+  },
+  {
+    "sector_id": "5",
+    "ds_sector": "Technology",
+    "active": "1"
+  }
+]

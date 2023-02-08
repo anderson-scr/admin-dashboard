@@ -10,6 +10,7 @@ export const messageModalSlice = createSlice({
   },
   reducers: {
     showModal: (state, actions) => {
+      console.log(actions);
       state.icon = actions.payload[0];
       state.title = actions.payload[1];
       state.bodyText = actions.payload[2];

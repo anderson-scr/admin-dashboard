@@ -19,19 +19,15 @@ const Login = () => {
     navigate("/Dashboard");
   };
 
-  const onSubmit= (data) => {
+  const onSubmit = async (data) => {
     try {
-      apiUsers.login(data);
-      // verifyLogin(data);
-      // redirect();
+      await apiUsers.login(data);
+      
+      redirect();
     } catch (error) {
-      dispatch(showModal(error));
+      dispatch(showModal([error.response.data.modalIcon, error.response.data.modalTitle, error.response.data.modalBodyText]));
     }
   };
-
-  const verifyLogin = (loginData) => {
-    if(loginData.userName !== "Anderson" || loginData.password !== "2818") throw ["warning", "User name or password invalid.", "Please, verify your login information."]
-  }
 
   return (
     <div className="container">

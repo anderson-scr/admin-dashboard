@@ -3,7 +3,7 @@ import "./dashboardStyle.css";
 import { BsCash, BsPeople, BsCart2 } from 'react-icons/bs';
 // Components
 import Card from "common/components/card/card";
-import DashboardTable from "./components/dashboardTable/dashboardTable";
+import DashboardBarChart from "./components/dashboardTable/dashboardTable";
 import DashboardBreakdown from "./components/dashboardBreakdown/dashboardBreakdown";
 
 const Dashboard = () => {
@@ -17,7 +17,7 @@ const Dashboard = () => {
         <Card title="Low Stock Products" icon={<BsCart2 size={27}/>} value="13"/>
       </div>
       <div className="containerTableBreakdown h-75 row m-1 mt-3 d-flex">
-        <DashboardTable />
+        <DashboardBarChart />
         <DashboardBreakdown />
       </div>
     </section>

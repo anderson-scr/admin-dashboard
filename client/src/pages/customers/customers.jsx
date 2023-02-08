@@ -6,10 +6,13 @@ import { Box } from "@mui/material";
 
 const Customers = () => {
   const columns = [
-    {field: "id", headerName: "ID"},
+    {field: "customer_id", headerName: "ID"},
     {field: "first_name", headerName: "Name", flex: 1, cellClassName: "nameColumnCell"},
     {field: "last_name", flex: 1, headerName: "Last Name"},
-    {field: "email", flex: 1, headerName: "Email"}
+    {field: "register_date", flex: 1, headerName: "Register Date"},
+    {field: "birth_date", flex: 1, headerName: "Birth Date"},
+    {field: "email", flex: 1, headerName: "Email"},
+    {field: "recive_news_email", headerName: "Recive Emails"}
   ];
 
   return (
