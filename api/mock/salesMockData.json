@@ -1,0 +1,8002 @@
+[
+  {
+    "sale_id": 1,
+    "value": "$299.53",
+    "fk_customer": 81,
+    "fk_user": 24,
+    "sale_date": "3/23/2018",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 2,
+    "value": "$214.54",
+    "fk_customer": 884,
+    "fk_user": 22,
+    "sale_date": "2/20/2020",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 3,
+    "value": "$282.61",
+    "fk_customer": 126,
+    "fk_user": 16,
+    "sale_date": "3/8/2018",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 4,
+    "value": "$117.21",
+    "fk_customer": 981,
+    "fk_user": 17,
+    "sale_date": "3/9/2019",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 5,
+    "value": "$293.98",
+    "fk_customer": 954,
+    "fk_user": 29,
+    "sale_date": "1/24/2015",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 6,
+    "value": "$148.35",
+    "fk_customer": 900,
+    "fk_user": 8,
+    "sale_date": "4/6/2017",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 7,
+    "value": "$176.76",
+    "fk_customer": 702,
+    "fk_user": 25,
+    "sale_date": "6/10/2019",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 8,
+    "value": "$149.49",
+    "fk_customer": 365,
+    "fk_user": 30,
+    "sale_date": "8/10/2016",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 9,
+    "value": "$19.48",
+    "fk_customer": 538,
+    "fk_user": 24,
+    "sale_date": "7/27/2015",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 10,
+    "value": "$281.18",
+    "fk_customer": 807,
+    "fk_user": 5,
+    "sale_date": "4/13/2016",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 11,
+    "value": "$29.07",
+    "fk_customer": 301,
+    "fk_user": 20,
+    "sale_date": "1/6/2018",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 12,
+    "value": "$184.83",
+    "fk_customer": 15,
+    "fk_user": 2,
+    "sale_date": "11/22/2017",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 13,
+    "value": "$180.89",
+    "fk_customer": 91,
+    "fk_user": 26,
+    "sale_date": "10/2/2020",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 14,
+    "value": "$73.08",
+    "fk_customer": 966,
+    "fk_user": 2,
+    "sale_date": "12/14/2018",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 15,
+    "value": "$30.99",
+    "fk_customer": 850,
+    "fk_user": 8,
+    "sale_date": "6/2/2017",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 16,
+    "value": "$261.15",
+    "fk_customer": 965,
+    "fk_user": 29,
+    "sale_date": "4/14/2015",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 17,
+    "value": "$182.05",
+    "fk_customer": 143,
+    "fk_user": 9,
+    "sale_date": "11/12/2016",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 18,
+    "value": "$42.34",
+    "fk_customer": 552,
+    "fk_user": 15,
+    "sale_date": "1/2/2015",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 19,
+    "value": "$19.76",
+    "fk_customer": 799,
+    "fk_user": 12,
+    "sale_date": "10/5/2016",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 20,
+    "value": "$270.20",
+    "fk_customer": 344,
+    "fk_user": 1,
+    "sale_date": "5/21/2015",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 21,
+    "value": "$184.22",
+    "fk_customer": 564,
+    "fk_user": 26,
+    "sale_date": "1/1/2020",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 22,
+    "value": "$270.61",
+    "fk_customer": 955,
+    "fk_user": 12,
+    "sale_date": "12/25/2017",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 23,
+    "value": "$144.71",
+    "fk_customer": 415,
+    "fk_user": 22,
+    "sale_date": "9/27/2015",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 24,
+    "value": "$89.62",
+    "fk_customer": 186,
+    "fk_user": 3,
+    "sale_date": "10/19/2016",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 25,
+    "value": "$101.82",
+    "fk_customer": 461,
+    "fk_user": 20,
+    "sale_date": "9/29/2018",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 26,
+    "value": "$145.28",
+    "fk_customer": 332,
+    "fk_user": 18,
+    "sale_date": "3/18/2016",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 27,
+    "value": "$75.25",
+    "fk_customer": 208,
+    "fk_user": 29,
+    "sale_date": "1/2/2019",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 28,
+    "value": "$22.90",
+    "fk_customer": 227,
+    "fk_user": 10,
+    "sale_date": "11/16/2019",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 29,
+    "value": "$1.23",
+    "fk_customer": 367,
+    "fk_user": 29,
+    "sale_date": "12/11/2018",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 30,
+    "value": "$175.47",
+    "fk_customer": 845,
+    "fk_user": 9,
+    "sale_date": "3/31/2020",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 31,
+    "value": "$187.51",
+    "fk_customer": 75,
+    "fk_user": 15,
+    "sale_date": "4/9/2015",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 32,
+    "value": "$224.75",
+    "fk_customer": 403,
+    "fk_user": 10,
+    "sale_date": "1/26/2022",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 33,
+    "value": "$95.97",
+    "fk_customer": 759,
+    "fk_user": 24,
+    "sale_date": "1/9/2023",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 34,
+    "value": "$173.26",
+    "fk_customer": 225,
+    "fk_user": 9,
+    "sale_date": "9/14/2019",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 35,
+    "value": "$109.68",
+    "fk_customer": 258,
+    "fk_user": 18,
+    "sale_date": "12/13/2020",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 36,
+    "value": "$92.20",
+    "fk_customer": 18,
+    "fk_user": 17,
+    "sale_date": "12/31/2020",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 37,
+    "value": "$70.79",
+    "fk_customer": 73,
+    "fk_user": 8,
+    "sale_date": "7/15/2019",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 38,
+    "value": "$93.40",
+    "fk_customer": 233,
+    "fk_user": 27,
+    "sale_date": "9/19/2021",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 39,
+    "value": "$179.76",
+    "fk_customer": 674,
+    "fk_user": 24,
+    "sale_date": "5/6/2020",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 40,
+    "value": "$97.03",
+    "fk_customer": 65,
+    "fk_user": 24,
+    "sale_date": "4/19/2018",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 41,
+    "value": "$129.14",
+    "fk_customer": 107,
+    "fk_user": 11,
+    "sale_date": "1/29/2015",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 42,
+    "value": "$112.54",
+    "fk_customer": 5,
+    "fk_user": 28,
+    "sale_date": "1/9/2017",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 43,
+    "value": "$292.58",
+    "fk_customer": 368,
+    "fk_user": 25,
+    "sale_date": "4/9/2018",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 44,
+    "value": "$160.89",
+    "fk_customer": 805,
+    "fk_user": 14,
+    "sale_date": "5/11/2016",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 45,
+    "value": "$78.34",
+    "fk_customer": 867,
+    "fk_user": 21,
+    "sale_date": "6/19/2020",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 46,
+    "value": "$29.39",
+    "fk_customer": 600,
+    "fk_user": 13,
+    "sale_date": "4/1/2021",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 47,
+    "value": "$234.88",
+    "fk_customer": 979,
+    "fk_user": 13,
+    "sale_date": "2/23/2019",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 48,
+    "value": "$6.31",
+    "fk_customer": 144,
+    "fk_user": 18,
+    "sale_date": "11/13/2022",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 49,
+    "value": "$289.60",
+    "fk_customer": 111,
+    "fk_user": 3,
+    "sale_date": "12/22/2021",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 50,
+    "value": "$54.24",
+    "fk_customer": 422,
+    "fk_user": 18,
+    "sale_date": "11/27/2016",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 51,
+    "value": "$238.23",
+    "fk_customer": 772,
+    "fk_user": 2,
+    "sale_date": "3/16/2022",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 52,
+    "value": "$292.91",
+    "fk_customer": 722,
+    "fk_user": 17,
+    "sale_date": "12/10/2022",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 53,
+    "value": "$143.58",
+    "fk_customer": 467,
+    "fk_user": 11,
+    "sale_date": "12/23/2018",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 54,
+    "value": "$220.76",
+    "fk_customer": 696,
+    "fk_user": 12,
+    "sale_date": "11/11/2020",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 55,
+    "value": "$93.03",
+    "fk_customer": 376,
+    "fk_user": 7,
+    "sale_date": "3/23/2018",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 56,
+    "value": "$58.58",
+    "fk_customer": 161,
+    "fk_user": 22,
+    "sale_date": "9/25/2015",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 57,
+    "value": "$44.85",
+    "fk_customer": 660,
+    "fk_user": 10,
+    "sale_date": "8/19/2019",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 58,
+    "value": "$29.63",
+    "fk_customer": 427,
+    "fk_user": 30,
+    "sale_date": "3/26/2015",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 59,
+    "value": "$267.96",
+    "fk_customer": 453,
+    "fk_user": 13,
+    "sale_date": "10/16/2020",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 60,
+    "value": "$107.97",
+    "fk_customer": 669,
+    "fk_user": 23,
+    "sale_date": "4/24/2017",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 61,
+    "value": "$151.58",
+    "fk_customer": 513,
+    "fk_user": 12,
+    "sale_date": "1/21/2020",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 62,
+    "value": "$207.50",
+    "fk_customer": 85,
+    "fk_user": 15,
+    "sale_date": "12/18/2016",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 63,
+    "value": "$285.60",
+    "fk_customer": 46,
+    "fk_user": 27,
+    "sale_date": "4/3/2020",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 64,
+    "value": "$246.48",
+    "fk_customer": 581,
+    "fk_user": 21,
+    "sale_date": "8/9/2019",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 65,
+    "value": "$101.03",
+    "fk_customer": 618,
+    "fk_user": 21,
+    "sale_date": "5/30/2015",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 66,
+    "value": "$296.34",
+    "fk_customer": 13,
+    "fk_user": 30,
+    "sale_date": "1/28/2017",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 67,
+    "value": "$144.59",
+    "fk_customer": 321,
+    "fk_user": 25,
+    "sale_date": "8/16/2021",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 68,
+    "value": "$233.30",
+    "fk_customer": 44,
+    "fk_user": 8,
+    "sale_date": "10/2/2018",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 69,
+    "value": "$162.13",
+    "fk_customer": 332,
+    "fk_user": 21,
+    "sale_date": "10/6/2022",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 70,
+    "value": "$277.54",
+    "fk_customer": 472,
+    "fk_user": 18,
+    "sale_date": "2/28/2020",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 71,
+    "value": "$58.16",
+    "fk_customer": 577,
+    "fk_user": 29,
+    "sale_date": "12/21/2018",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 72,
+    "value": "$174.27",
+    "fk_customer": 935,
+    "fk_user": 9,
+    "sale_date": "4/27/2015",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 73,
+    "value": "$121.52",
+    "fk_customer": 659,
+    "fk_user": 24,
+    "sale_date": "9/16/2021",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 74,
+    "value": "$112.36",
+    "fk_customer": 790,
+    "fk_user": 23,
+    "sale_date": "3/3/2015",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 75,
+    "value": "$168.62",
+    "fk_customer": 205,
+    "fk_user": 8,
+    "sale_date": "11/4/2016",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 76,
+    "value": "$58.56",
+    "fk_customer": 304,
+    "fk_user": 11,
+    "sale_date": "9/8/2019",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 77,
+    "value": "$5.84",
+    "fk_customer": 696,
+    "fk_user": 29,
+    "sale_date": "6/29/2019",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 78,
+    "value": "$136.85",
+    "fk_customer": 799,
+    "fk_user": 5,
+    "sale_date": "11/12/2021",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 79,
+    "value": "$12.05",
+    "fk_customer": 151,
+    "fk_user": 22,
+    "sale_date": "1/9/2015",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 80,
+    "value": "$65.87",
+    "fk_customer": 310,
+    "fk_user": 18,
+    "sale_date": "12/26/2019",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 81,
+    "value": "$13.51",
+    "fk_customer": 973,
+    "fk_user": 30,
+    "sale_date": "7/10/2019",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 82,
+    "value": "$9.88",
+    "fk_customer": 502,
+    "fk_user": 2,
+    "sale_date": "2/6/2017",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 83,
+    "value": "$288.26",
+    "fk_customer": 228,
+    "fk_user": 28,
+    "sale_date": "1/16/2021",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 84,
+    "value": "$21.55",
+    "fk_customer": 849,
+    "fk_user": 22,
+    "sale_date": "1/9/2021",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 85,
+    "value": "$252.91",
+    "fk_customer": 106,
+    "fk_user": 10,
+    "sale_date": "7/12/2015",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 86,
+    "value": "$170.97",
+    "fk_customer": 188,
+    "fk_user": 4,
+    "sale_date": "8/20/2019",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 87,
+    "value": "$291.30",
+    "fk_customer": 602,
+    "fk_user": 16,
+    "sale_date": "7/12/2018",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 88,
+    "value": "$19.37",
+    "fk_customer": 509,
+    "fk_user": 17,
+    "sale_date": "8/1/2015",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 89,
+    "value": "$6.60",
+    "fk_customer": 5,
+    "fk_user": 5,
+    "sale_date": "4/26/2021",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 90,
+    "value": "$157.64",
+    "fk_customer": 281,
+    "fk_user": 4,
+    "sale_date": "5/1/2016",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 91,
+    "value": "$72.99",
+    "fk_customer": 28,
+    "fk_user": 28,
+    "sale_date": "12/20/2019",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 92,
+    "value": "$50.63",
+    "fk_customer": 402,
+    "fk_user": 14,
+    "sale_date": "8/29/2022",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 93,
+    "value": "$38.61",
+    "fk_customer": 917,
+    "fk_user": 6,
+    "sale_date": "5/9/2016",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 94,
+    "value": "$140.86",
+    "fk_customer": 601,
+    "fk_user": 13,
+    "sale_date": "10/16/2018",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 95,
+    "value": "$167.83",
+    "fk_customer": 875,
+    "fk_user": 29,
+    "sale_date": "7/16/2021",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 96,
+    "value": "$142.56",
+    "fk_customer": 999,
+    "fk_user": 22,
+    "sale_date": "5/1/2021",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 97,
+    "value": "$64.25",
+    "fk_customer": 652,
+    "fk_user": 21,
+    "sale_date": "1/25/2023",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 98,
+    "value": "$131.20",
+    "fk_customer": 606,
+    "fk_user": 28,
+    "sale_date": "1/10/2022",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 99,
+    "value": "$237.71",
+    "fk_customer": 656,
+    "fk_user": 20,
+    "sale_date": "6/21/2017",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 100,
+    "value": "$214.32",
+    "fk_customer": 305,
+    "fk_user": 9,
+    "sale_date": "10/7/2015",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 101,
+    "value": "$163.74",
+    "fk_customer": 254,
+    "fk_user": 18,
+    "sale_date": "10/20/2016",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 102,
+    "value": "$65.98",
+    "fk_customer": 151,
+    "fk_user": 17,
+    "sale_date": "8/8/2017",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 103,
+    "value": "$53.58",
+    "fk_customer": 977,
+    "fk_user": 14,
+    "sale_date": "9/2/2016",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 104,
+    "value": "$290.26",
+    "fk_customer": 1000,
+    "fk_user": 15,
+    "sale_date": "3/9/2020",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 105,
+    "value": "$10.92",
+    "fk_customer": 770,
+    "fk_user": 17,
+    "sale_date": "10/16/2021",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 106,
+    "value": "$14.95",
+    "fk_customer": 187,
+    "fk_user": 7,
+    "sale_date": "6/16/2020",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 107,
+    "value": "$183.51",
+    "fk_customer": 562,
+    "fk_user": 29,
+    "sale_date": "4/5/2019",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 108,
+    "value": "$154.28",
+    "fk_customer": 654,
+    "fk_user": 10,
+    "sale_date": "9/18/2020",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 109,
+    "value": "$6.28",
+    "fk_customer": 342,
+    "fk_user": 23,
+    "sale_date": "7/17/2016",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 110,
+    "value": "$182.50",
+    "fk_customer": 986,
+    "fk_user": 17,
+    "sale_date": "10/24/2022",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 111,
+    "value": "$79.10",
+    "fk_customer": 623,
+    "fk_user": 25,
+    "sale_date": "12/2/2016",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 112,
+    "value": "$129.92",
+    "fk_customer": 400,
+    "fk_user": 19,
+    "sale_date": "6/27/2021",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 113,
+    "value": "$294.82",
+    "fk_customer": 329,
+    "fk_user": 21,
+    "sale_date": "1/2/2019",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 114,
+    "value": "$189.12",
+    "fk_customer": 68,
+    "fk_user": 3,
+    "sale_date": "2/12/2023",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 115,
+    "value": "$187.89",
+    "fk_customer": 378,
+    "fk_user": 19,
+    "sale_date": "3/17/2016",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 116,
+    "value": "$66.02",
+    "fk_customer": 587,
+    "fk_user": 28,
+    "sale_date": "1/22/2018",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 117,
+    "value": "$162.88",
+    "fk_customer": 492,
+    "fk_user": 24,
+    "sale_date": "6/6/2015",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 118,
+    "value": "$289.58",
+    "fk_customer": 138,
+    "fk_user": 6,
+    "sale_date": "3/3/2023",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 119,
+    "value": "$67.94",
+    "fk_customer": 682,
+    "fk_user": 26,
+    "sale_date": "7/24/2020",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 120,
+    "value": "$222.55",
+    "fk_customer": 904,
+    "fk_user": 22,
+    "sale_date": "2/5/2020",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 121,
+    "value": "$121.00",
+    "fk_customer": 736,
+    "fk_user": 24,
+    "sale_date": "4/20/2016",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 122,
+    "value": "$69.05",
+    "fk_customer": 950,
+    "fk_user": 9,
+    "sale_date": "4/27/2020",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 123,
+    "value": "$36.23",
+    "fk_customer": 599,
+    "fk_user": 30,
+    "sale_date": "6/30/2018",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 124,
+    "value": "$64.50",
+    "fk_customer": 26,
+    "fk_user": 11,
+    "sale_date": "11/20/2015",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 125,
+    "value": "$40.59",
+    "fk_customer": 421,
+    "fk_user": 9,
+    "sale_date": "4/11/2022",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 126,
+    "value": "$45.97",
+    "fk_customer": 72,
+    "fk_user": 13,
+    "sale_date": "2/22/2015",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 127,
+    "value": "$74.51",
+    "fk_customer": 752,
+    "fk_user": 4,
+    "sale_date": "3/10/2018",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 128,
+    "value": "$159.50",
+    "fk_customer": 39,
+    "fk_user": 11,
+    "sale_date": "6/27/2022",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 129,
+    "value": "$50.73",
+    "fk_customer": 82,
+    "fk_user": 26,
+    "sale_date": "6/30/2021",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 130,
+    "value": "$217.43",
+    "fk_customer": 562,
+    "fk_user": 27,
+    "sale_date": "11/3/2021",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 131,
+    "value": "$280.28",
+    "fk_customer": 818,
+    "fk_user": 15,
+    "sale_date": "4/10/2022",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 132,
+    "value": "$51.30",
+    "fk_customer": 572,
+    "fk_user": 2,
+    "sale_date": "10/31/2016",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 133,
+    "value": "$129.87",
+    "fk_customer": 332,
+    "fk_user": 12,
+    "sale_date": "7/21/2017",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 134,
+    "value": "$270.14",
+    "fk_customer": 769,
+    "fk_user": 14,
+    "sale_date": "7/1/2019",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 135,
+    "value": "$295.04",
+    "fk_customer": 28,
+    "fk_user": 5,
+    "sale_date": "9/21/2016",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 136,
+    "value": "$160.22",
+    "fk_customer": 497,
+    "fk_user": 6,
+    "sale_date": "4/21/2018",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 137,
+    "value": "$126.42",
+    "fk_customer": 637,
+    "fk_user": 25,
+    "sale_date": "6/2/2021",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 138,
+    "value": "$25.02",
+    "fk_customer": 940,
+    "fk_user": 24,
+    "sale_date": "4/3/2021",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 139,
+    "value": "$101.09",
+    "fk_customer": 886,
+    "fk_user": 20,
+    "sale_date": "8/7/2018",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 140,
+    "value": "$84.28",
+    "fk_customer": 666,
+    "fk_user": 4,
+    "sale_date": "5/18/2019",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 141,
+    "value": "$26.06",
+    "fk_customer": 395,
+    "fk_user": 25,
+    "sale_date": "3/7/2020",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 142,
+    "value": "$249.43",
+    "fk_customer": 527,
+    "fk_user": 26,
+    "sale_date": "5/3/2016",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 143,
+    "value": "$45.56",
+    "fk_customer": 833,
+    "fk_user": 4,
+    "sale_date": "2/13/2021",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 144,
+    "value": "$159.54",
+    "fk_customer": 179,
+    "fk_user": 26,
+    "sale_date": "2/14/2022",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 145,
+    "value": "$265.87",
+    "fk_customer": 393,
+    "fk_user": 15,
+    "sale_date": "2/13/2015",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 146,
+    "value": "$230.83",
+    "fk_customer": 202,
+    "fk_user": 3,
+    "sale_date": "8/6/2016",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 147,
+    "value": "$58.26",
+    "fk_customer": 304,
+    "fk_user": 2,
+    "sale_date": "8/1/2022",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 148,
+    "value": "$271.98",
+    "fk_customer": 249,
+    "fk_user": 26,
+    "sale_date": "8/22/2015",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 149,
+    "value": "$258.77",
+    "fk_customer": 449,
+    "fk_user": 13,
+    "sale_date": "2/7/2016",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 150,
+    "value": "$96.04",
+    "fk_customer": 412,
+    "fk_user": 16,
+    "sale_date": "11/6/2016",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 151,
+    "value": "$32.95",
+    "fk_customer": 115,
+    "fk_user": 5,
+    "sale_date": "5/12/2018",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 152,
+    "value": "$297.09",
+    "fk_customer": 766,
+    "fk_user": 9,
+    "sale_date": "5/11/2017",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 153,
+    "value": "$136.12",
+    "fk_customer": 790,
+    "fk_user": 13,
+    "sale_date": "4/29/2018",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 154,
+    "value": "$74.02",
+    "fk_customer": 387,
+    "fk_user": 12,
+    "sale_date": "1/8/2022",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 155,
+    "value": "$213.66",
+    "fk_customer": 377,
+    "fk_user": 2,
+    "sale_date": "4/16/2017",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 156,
+    "value": "$25.84",
+    "fk_customer": 303,
+    "fk_user": 16,
+    "sale_date": "7/11/2017",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 157,
+    "value": "$2.07",
+    "fk_customer": 470,
+    "fk_user": 19,
+    "sale_date": "8/17/2018",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 158,
+    "value": "$278.92",
+    "fk_customer": 998,
+    "fk_user": 21,
+    "sale_date": "12/27/2019",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 159,
+    "value": "$215.04",
+    "fk_customer": 571,
+    "fk_user": 19,
+    "sale_date": "2/9/2020",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 160,
+    "value": "$64.75",
+    "fk_customer": 259,
+    "fk_user": 13,
+    "sale_date": "8/24/2017",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 161,
+    "value": "$191.08",
+    "fk_customer": 829,
+    "fk_user": 7,
+    "sale_date": "5/30/2021",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 162,
+    "value": "$16.37",
+    "fk_customer": 105,
+    "fk_user": 27,
+    "sale_date": "10/21/2020",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 163,
+    "value": "$187.60",
+    "fk_customer": 452,
+    "fk_user": 23,
+    "sale_date": "7/9/2018",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 164,
+    "value": "$184.18",
+    "fk_customer": 959,
+    "fk_user": 25,
+    "sale_date": "10/22/2021",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 165,
+    "value": "$126.14",
+    "fk_customer": 282,
+    "fk_user": 11,
+    "sale_date": "10/18/2016",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 166,
+    "value": "$204.18",
+    "fk_customer": 290,
+    "fk_user": 22,
+    "sale_date": "1/12/2018",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 167,
+    "value": "$86.27",
+    "fk_customer": 347,
+    "fk_user": 14,
+    "sale_date": "7/18/2016",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 168,
+    "value": "$249.11",
+    "fk_customer": 958,
+    "fk_user": 18,
+    "sale_date": "8/8/2020",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 169,
+    "value": "$131.36",
+    "fk_customer": 819,
+    "fk_user": 9,
+    "sale_date": "11/9/2021",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 170,
+    "value": "$19.29",
+    "fk_customer": 489,
+    "fk_user": 28,
+    "sale_date": "11/21/2019",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 171,
+    "value": "$130.27",
+    "fk_customer": 22,
+    "fk_user": 26,
+    "sale_date": "4/10/2020",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 172,
+    "value": "$244.08",
+    "fk_customer": 138,
+    "fk_user": 28,
+    "sale_date": "1/25/2015",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 173,
+    "value": "$217.86",
+    "fk_customer": 679,
+    "fk_user": 13,
+    "sale_date": "7/19/2019",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 174,
+    "value": "$13.23",
+    "fk_customer": 684,
+    "fk_user": 7,
+    "sale_date": "7/22/2018",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 175,
+    "value": "$170.71",
+    "fk_customer": 378,
+    "fk_user": 26,
+    "sale_date": "4/5/2019",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 176,
+    "value": "$138.00",
+    "fk_customer": 245,
+    "fk_user": 26,
+    "sale_date": "5/27/2022",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 177,
+    "value": "$33.18",
+    "fk_customer": 555,
+    "fk_user": 30,
+    "sale_date": "7/4/2017",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 178,
+    "value": "$270.59",
+    "fk_customer": 797,
+    "fk_user": 1,
+    "sale_date": "6/20/2019",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 179,
+    "value": "$263.85",
+    "fk_customer": 239,
+    "fk_user": 12,
+    "sale_date": "3/12/2020",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 180,
+    "value": "$72.30",
+    "fk_customer": 983,
+    "fk_user": 13,
+    "sale_date": "10/18/2016",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 181,
+    "value": "$105.24",
+    "fk_customer": 761,
+    "fk_user": 19,
+    "sale_date": "2/14/2022",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 182,
+    "value": "$12.92",
+    "fk_customer": 913,
+    "fk_user": 20,
+    "sale_date": "5/25/2022",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 183,
+    "value": "$29.28",
+    "fk_customer": 500,
+    "fk_user": 13,
+    "sale_date": "2/21/2022",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 184,
+    "value": "$256.62",
+    "fk_customer": 251,
+    "fk_user": 30,
+    "sale_date": "12/12/2021",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 185,
+    "value": "$136.76",
+    "fk_customer": 614,
+    "fk_user": 26,
+    "sale_date": "3/30/2015",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 186,
+    "value": "$254.09",
+    "fk_customer": 17,
+    "fk_user": 11,
+    "sale_date": "8/9/2015",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 187,
+    "value": "$245.92",
+    "fk_customer": 457,
+    "fk_user": 3,
+    "sale_date": "1/23/2019",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 188,
+    "value": "$80.56",
+    "fk_customer": 299,
+    "fk_user": 27,
+    "sale_date": "3/3/2021",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 189,
+    "value": "$82.16",
+    "fk_customer": 872,
+    "fk_user": 13,
+    "sale_date": "3/25/2022",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 190,
+    "value": "$133.38",
+    "fk_customer": 19,
+    "fk_user": 9,
+    "sale_date": "9/16/2017",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 191,
+    "value": "$126.55",
+    "fk_customer": 730,
+    "fk_user": 5,
+    "sale_date": "9/28/2016",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 192,
+    "value": "$267.75",
+    "fk_customer": 577,
+    "fk_user": 12,
+    "sale_date": "2/27/2021",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 193,
+    "value": "$1.56",
+    "fk_customer": 217,
+    "fk_user": 15,
+    "sale_date": "10/11/2017",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 194,
+    "value": "$111.44",
+    "fk_customer": 279,
+    "fk_user": 16,
+    "sale_date": "7/19/2020",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 195,
+    "value": "$287.85",
+    "fk_customer": 18,
+    "fk_user": 7,
+    "sale_date": "9/20/2016",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 196,
+    "value": "$139.96",
+    "fk_customer": 605,
+    "fk_user": 21,
+    "sale_date": "4/9/2015",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 197,
+    "value": "$9.42",
+    "fk_customer": 260,
+    "fk_user": 17,
+    "sale_date": "3/15/2017",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 198,
+    "value": "$163.34",
+    "fk_customer": 362,
+    "fk_user": 8,
+    "sale_date": "2/1/2019",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 199,
+    "value": "$246.39",
+    "fk_customer": 738,
+    "fk_user": 17,
+    "sale_date": "9/12/2021",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 200,
+    "value": "$115.26",
+    "fk_customer": 181,
+    "fk_user": 23,
+    "sale_date": "1/5/2019",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 201,
+    "value": "$107.17",
+    "fk_customer": 787,
+    "fk_user": 16,
+    "sale_date": "11/18/2021",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 202,
+    "value": "$23.24",
+    "fk_customer": 550,
+    "fk_user": 16,
+    "sale_date": "6/19/2017",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 203,
+    "value": "$165.90",
+    "fk_customer": 198,
+    "fk_user": 14,
+    "sale_date": "10/27/2022",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 204,
+    "value": "$168.75",
+    "fk_customer": 382,
+    "fk_user": 29,
+    "sale_date": "5/6/2019",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 205,
+    "value": "$53.97",
+    "fk_customer": 951,
+    "fk_user": 10,
+    "sale_date": "11/2/2021",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 206,
+    "value": "$31.29",
+    "fk_customer": 336,
+    "fk_user": 17,
+    "sale_date": "10/10/2022",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 207,
+    "value": "$138.38",
+    "fk_customer": 494,
+    "fk_user": 7,
+    "sale_date": "5/23/2021",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 208,
+    "value": "$54.09",
+    "fk_customer": 544,
+    "fk_user": 27,
+    "sale_date": "2/26/2015",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 209,
+    "value": "$298.06",
+    "fk_customer": 693,
+    "fk_user": 25,
+    "sale_date": "1/14/2023",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 210,
+    "value": "$162.85",
+    "fk_customer": 316,
+    "fk_user": 14,
+    "sale_date": "7/31/2020",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 211,
+    "value": "$28.83",
+    "fk_customer": 498,
+    "fk_user": 15,
+    "sale_date": "4/21/2019",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 212,
+    "value": "$291.48",
+    "fk_customer": 147,
+    "fk_user": 27,
+    "sale_date": "1/24/2020",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 213,
+    "value": "$159.89",
+    "fk_customer": 806,
+    "fk_user": 3,
+    "sale_date": "3/7/2019",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 214,
+    "value": "$128.14",
+    "fk_customer": 977,
+    "fk_user": 15,
+    "sale_date": "6/19/2015",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 215,
+    "value": "$169.78",
+    "fk_customer": 525,
+    "fk_user": 4,
+    "sale_date": "7/17/2018",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 216,
+    "value": "$298.92",
+    "fk_customer": 416,
+    "fk_user": 14,
+    "sale_date": "7/27/2021",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 217,
+    "value": "$31.60",
+    "fk_customer": 906,
+    "fk_user": 5,
+    "sale_date": "1/7/2020",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 218,
+    "value": "$219.95",
+    "fk_customer": 664,
+    "fk_user": 13,
+    "sale_date": "6/19/2016",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 219,
+    "value": "$120.19",
+    "fk_customer": 470,
+    "fk_user": 17,
+    "sale_date": "12/22/2017",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 220,
+    "value": "$92.88",
+    "fk_customer": 500,
+    "fk_user": 18,
+    "sale_date": "6/17/2019",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 221,
+    "value": "$199.32",
+    "fk_customer": 5,
+    "fk_user": 18,
+    "sale_date": "12/21/2022",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 222,
+    "value": "$212.30",
+    "fk_customer": 707,
+    "fk_user": 6,
+    "sale_date": "6/29/2019",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 223,
+    "value": "$190.64",
+    "fk_customer": 966,
+    "fk_user": 1,
+    "sale_date": "9/15/2019",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 224,
+    "value": "$219.63",
+    "fk_customer": 562,
+    "fk_user": 23,
+    "sale_date": "7/29/2022",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 225,
+    "value": "$199.70",
+    "fk_customer": 587,
+    "fk_user": 20,
+    "sale_date": "1/23/2016",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 226,
+    "value": "$153.54",
+    "fk_customer": 978,
+    "fk_user": 18,
+    "sale_date": "1/27/2015",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 227,
+    "value": "$135.84",
+    "fk_customer": 853,
+    "fk_user": 3,
+    "sale_date": "4/5/2019",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 228,
+    "value": "$213.36",
+    "fk_customer": 550,
+    "fk_user": 26,
+    "sale_date": "8/2/2017",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 229,
+    "value": "$132.39",
+    "fk_customer": 789,
+    "fk_user": 23,
+    "sale_date": "4/9/2017",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 230,
+    "value": "$25.97",
+    "fk_customer": 12,
+    "fk_user": 30,
+    "sale_date": "6/29/2019",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 231,
+    "value": "$8.23",
+    "fk_customer": 256,
+    "fk_user": 12,
+    "sale_date": "3/22/2017",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 232,
+    "value": "$82.02",
+    "fk_customer": 513,
+    "fk_user": 10,
+    "sale_date": "10/28/2015",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 233,
+    "value": "$197.64",
+    "fk_customer": 554,
+    "fk_user": 15,
+    "sale_date": "2/11/2017",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 234,
+    "value": "$294.64",
+    "fk_customer": 100,
+    "fk_user": 26,
+    "sale_date": "6/21/2016",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 235,
+    "value": "$150.98",
+    "fk_customer": 855,
+    "fk_user": 9,
+    "sale_date": "10/11/2022",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 236,
+    "value": "$210.09",
+    "fk_customer": 83,
+    "fk_user": 20,
+    "sale_date": "6/18/2017",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 237,
+    "value": "$21.74",
+    "fk_customer": 661,
+    "fk_user": 26,
+    "sale_date": "12/8/2018",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 238,
+    "value": "$239.41",
+    "fk_customer": 873,
+    "fk_user": 1,
+    "sale_date": "8/22/2020",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 239,
+    "value": "$228.98",
+    "fk_customer": 381,
+    "fk_user": 1,
+    "sale_date": "9/18/2017",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 240,
+    "value": "$290.16",
+    "fk_customer": 814,
+    "fk_user": 24,
+    "sale_date": "10/24/2019",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 241,
+    "value": "$127.45",
+    "fk_customer": 553,
+    "fk_user": 17,
+    "sale_date": "7/25/2015",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 242,
+    "value": "$51.63",
+    "fk_customer": 141,
+    "fk_user": 19,
+    "sale_date": "11/30/2020",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 243,
+    "value": "$228.86",
+    "fk_customer": 69,
+    "fk_user": 26,
+    "sale_date": "10/25/2015",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 244,
+    "value": "$158.79",
+    "fk_customer": 725,
+    "fk_user": 13,
+    "sale_date": "8/8/2019",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 245,
+    "value": "$24.58",
+    "fk_customer": 270,
+    "fk_user": 17,
+    "sale_date": "4/19/2021",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 246,
+    "value": "$278.20",
+    "fk_customer": 23,
+    "fk_user": 13,
+    "sale_date": "3/25/2015",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 247,
+    "value": "$38.12",
+    "fk_customer": 290,
+    "fk_user": 7,
+    "sale_date": "12/13/2015",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 248,
+    "value": "$107.74",
+    "fk_customer": 597,
+    "fk_user": 6,
+    "sale_date": "1/16/2019",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 249,
+    "value": "$150.89",
+    "fk_customer": 433,
+    "fk_user": 24,
+    "sale_date": "7/29/2022",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 250,
+    "value": "$274.13",
+    "fk_customer": 677,
+    "fk_user": 8,
+    "sale_date": "5/10/2017",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 251,
+    "value": "$53.67",
+    "fk_customer": 832,
+    "fk_user": 5,
+    "sale_date": "6/9/2022",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 252,
+    "value": "$13.59",
+    "fk_customer": 828,
+    "fk_user": 29,
+    "sale_date": "9/14/2017",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 253,
+    "value": "$117.65",
+    "fk_customer": 649,
+    "fk_user": 29,
+    "sale_date": "6/13/2018",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 254,
+    "value": "$276.40",
+    "fk_customer": 88,
+    "fk_user": 2,
+    "sale_date": "10/31/2016",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 255,
+    "value": "$10.25",
+    "fk_customer": 475,
+    "fk_user": 15,
+    "sale_date": "2/3/2020",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 256,
+    "value": "$236.71",
+    "fk_customer": 432,
+    "fk_user": 25,
+    "sale_date": "4/23/2015",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 257,
+    "value": "$182.67",
+    "fk_customer": 63,
+    "fk_user": 8,
+    "sale_date": "2/26/2019",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 258,
+    "value": "$148.28",
+    "fk_customer": 772,
+    "fk_user": 9,
+    "sale_date": "10/10/2018",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 259,
+    "value": "$36.82",
+    "fk_customer": 776,
+    "fk_user": 24,
+    "sale_date": "5/19/2022",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 260,
+    "value": "$21.75",
+    "fk_customer": 273,
+    "fk_user": 6,
+    "sale_date": "1/30/2020",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 261,
+    "value": "$111.28",
+    "fk_customer": 814,
+    "fk_user": 8,
+    "sale_date": "6/5/2022",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 262,
+    "value": "$45.03",
+    "fk_customer": 402,
+    "fk_user": 24,
+    "sale_date": "10/20/2019",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 263,
+    "value": "$160.96",
+    "fk_customer": 409,
+    "fk_user": 14,
+    "sale_date": "10/9/2017",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 264,
+    "value": "$70.70",
+    "fk_customer": 723,
+    "fk_user": 27,
+    "sale_date": "11/28/2016",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 265,
+    "value": "$142.75",
+    "fk_customer": 544,
+    "fk_user": 6,
+    "sale_date": "2/24/2021",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 266,
+    "value": "$208.58",
+    "fk_customer": 587,
+    "fk_user": 27,
+    "sale_date": "11/5/2015",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 267,
+    "value": "$280.88",
+    "fk_customer": 964,
+    "fk_user": 9,
+    "sale_date": "8/16/2019",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 268,
+    "value": "$92.43",
+    "fk_customer": 990,
+    "fk_user": 12,
+    "sale_date": "10/21/2015",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 269,
+    "value": "$291.91",
+    "fk_customer": 960,
+    "fk_user": 30,
+    "sale_date": "8/10/2020",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 270,
+    "value": "$285.12",
+    "fk_customer": 938,
+    "fk_user": 18,
+    "sale_date": "6/20/2022",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 271,
+    "value": "$197.79",
+    "fk_customer": 64,
+    "fk_user": 10,
+    "sale_date": "2/22/2015",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 272,
+    "value": "$168.25",
+    "fk_customer": 309,
+    "fk_user": 2,
+    "sale_date": "9/23/2022",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 273,
+    "value": "$207.96",
+    "fk_customer": 57,
+    "fk_user": 11,
+    "sale_date": "5/4/2022",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 274,
+    "value": "$9.28",
+    "fk_customer": 288,
+    "fk_user": 25,
+    "sale_date": "11/2/2021",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 275,
+    "value": "$246.00",
+    "fk_customer": 735,
+    "fk_user": 28,
+    "sale_date": "12/5/2020",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 276,
+    "value": "$167.39",
+    "fk_customer": 949,
+    "fk_user": 6,
+    "sale_date": "6/25/2015",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 277,
+    "value": "$175.71",
+    "fk_customer": 151,
+    "fk_user": 14,
+    "sale_date": "5/5/2021",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 278,
+    "value": "$278.91",
+    "fk_customer": 358,
+    "fk_user": 20,
+    "sale_date": "7/5/2022",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 279,
+    "value": "$271.33",
+    "fk_customer": 737,
+    "fk_user": 12,
+    "sale_date": "6/18/2020",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 280,
+    "value": "$166.84",
+    "fk_customer": 33,
+    "fk_user": 25,
+    "sale_date": "11/2/2021",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 281,
+    "value": "$155.79",
+    "fk_customer": 810,
+    "fk_user": 1,
+    "sale_date": "3/21/2020",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 282,
+    "value": "$60.44",
+    "fk_customer": 384,
+    "fk_user": 17,
+    "sale_date": "10/2/2015",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 283,
+    "value": "$88.19",
+    "fk_customer": 127,
+    "fk_user": 7,
+    "sale_date": "2/27/2017",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 284,
+    "value": "$104.58",
+    "fk_customer": 95,
+    "fk_user": 4,
+    "sale_date": "9/14/2018",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 285,
+    "value": "$182.81",
+    "fk_customer": 229,
+    "fk_user": 8,
+    "sale_date": "10/25/2017",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 286,
+    "value": "$54.04",
+    "fk_customer": 72,
+    "fk_user": 17,
+    "sale_date": "10/23/2021",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 287,
+    "value": "$295.98",
+    "fk_customer": 300,
+    "fk_user": 22,
+    "sale_date": "1/18/2023",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 288,
+    "value": "$166.68",
+    "fk_customer": 651,
+    "fk_user": 23,
+    "sale_date": "1/22/2016",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 289,
+    "value": "$222.11",
+    "fk_customer": 324,
+    "fk_user": 12,
+    "sale_date": "4/17/2017",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 290,
+    "value": "$107.77",
+    "fk_customer": 651,
+    "fk_user": 27,
+    "sale_date": "3/6/2017",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 291,
+    "value": "$44.36",
+    "fk_customer": 125,
+    "fk_user": 24,
+    "sale_date": "8/18/2016",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 292,
+    "value": "$65.00",
+    "fk_customer": 39,
+    "fk_user": 8,
+    "sale_date": "8/23/2021",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 293,
+    "value": "$36.96",
+    "fk_customer": 984,
+    "fk_user": 15,
+    "sale_date": "6/18/2021",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 294,
+    "value": "$269.67",
+    "fk_customer": 228,
+    "fk_user": 14,
+    "sale_date": "2/26/2022",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 295,
+    "value": "$288.88",
+    "fk_customer": 862,
+    "fk_user": 16,
+    "sale_date": "4/18/2017",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 296,
+    "value": "$228.16",
+    "fk_customer": 474,
+    "fk_user": 27,
+    "sale_date": "2/23/2018",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 297,
+    "value": "$292.50",
+    "fk_customer": 236,
+    "fk_user": 9,
+    "sale_date": "1/29/2019",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 298,
+    "value": "$289.45",
+    "fk_customer": 91,
+    "fk_user": 6,
+    "sale_date": "2/21/2016",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 299,
+    "value": "$43.94",
+    "fk_customer": 504,
+    "fk_user": 1,
+    "sale_date": "6/26/2015",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 300,
+    "value": "$32.18",
+    "fk_customer": 3,
+    "fk_user": 12,
+    "sale_date": "6/25/2015",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 301,
+    "value": "$136.51",
+    "fk_customer": 480,
+    "fk_user": 27,
+    "sale_date": "5/10/2017",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 302,
+    "value": "$228.02",
+    "fk_customer": 759,
+    "fk_user": 29,
+    "sale_date": "12/9/2019",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 303,
+    "value": "$262.62",
+    "fk_customer": 749,
+    "fk_user": 19,
+    "sale_date": "10/26/2015",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 304,
+    "value": "$192.99",
+    "fk_customer": 135,
+    "fk_user": 18,
+    "sale_date": "6/18/2021",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 305,
+    "value": "$267.40",
+    "fk_customer": 831,
+    "fk_user": 24,
+    "sale_date": "10/23/2015",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 306,
+    "value": "$208.16",
+    "fk_customer": 204,
+    "fk_user": 19,
+    "sale_date": "5/27/2018",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 307,
+    "value": "$113.36",
+    "fk_customer": 822,
+    "fk_user": 30,
+    "sale_date": "11/2/2019",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 308,
+    "value": "$237.46",
+    "fk_customer": 971,
+    "fk_user": 29,
+    "sale_date": "3/18/2016",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 309,
+    "value": "$223.58",
+    "fk_customer": 259,
+    "fk_user": 24,
+    "sale_date": "6/6/2021",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 310,
+    "value": "$66.90",
+    "fk_customer": 511,
+    "fk_user": 13,
+    "sale_date": "5/21/2018",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 311,
+    "value": "$78.46",
+    "fk_customer": 671,
+    "fk_user": 25,
+    "sale_date": "6/29/2017",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 312,
+    "value": "$189.83",
+    "fk_customer": 456,
+    "fk_user": 14,
+    "sale_date": "9/17/2020",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 313,
+    "value": "$214.59",
+    "fk_customer": 958,
+    "fk_user": 13,
+    "sale_date": "1/22/2018",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 314,
+    "value": "$279.75",
+    "fk_customer": 662,
+    "fk_user": 24,
+    "sale_date": "9/10/2015",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 315,
+    "value": "$94.34",
+    "fk_customer": 7,
+    "fk_user": 10,
+    "sale_date": "11/10/2016",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 316,
+    "value": "$157.70",
+    "fk_customer": 222,
+    "fk_user": 2,
+    "sale_date": "6/13/2022",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 317,
+    "value": "$89.19",
+    "fk_customer": 160,
+    "fk_user": 22,
+    "sale_date": "2/27/2021",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 318,
+    "value": "$5.26",
+    "fk_customer": 858,
+    "fk_user": 26,
+    "sale_date": "2/27/2015",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 319,
+    "value": "$197.51",
+    "fk_customer": 990,
+    "fk_user": 13,
+    "sale_date": "8/30/2019",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 320,
+    "value": "$159.50",
+    "fk_customer": 883,
+    "fk_user": 17,
+    "sale_date": "5/6/2021",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 321,
+    "value": "$285.92",
+    "fk_customer": 892,
+    "fk_user": 15,
+    "sale_date": "6/6/2020",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 322,
+    "value": "$69.07",
+    "fk_customer": 546,
+    "fk_user": 24,
+    "sale_date": "12/21/2015",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 323,
+    "value": "$131.31",
+    "fk_customer": 460,
+    "fk_user": 9,
+    "sale_date": "12/20/2015",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 324,
+    "value": "$158.81",
+    "fk_customer": 28,
+    "fk_user": 4,
+    "sale_date": "8/19/2015",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 325,
+    "value": "$63.55",
+    "fk_customer": 874,
+    "fk_user": 2,
+    "sale_date": "1/5/2015",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 326,
+    "value": "$239.10",
+    "fk_customer": 775,
+    "fk_user": 10,
+    "sale_date": "8/30/2015",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 327,
+    "value": "$202.38",
+    "fk_customer": 508,
+    "fk_user": 30,
+    "sale_date": "10/16/2018",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 328,
+    "value": "$39.41",
+    "fk_customer": 671,
+    "fk_user": 24,
+    "sale_date": "10/5/2016",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 329,
+    "value": "$279.64",
+    "fk_customer": 977,
+    "fk_user": 20,
+    "sale_date": "3/7/2023",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 330,
+    "value": "$198.34",
+    "fk_customer": 711,
+    "fk_user": 21,
+    "sale_date": "7/18/2018",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 331,
+    "value": "$236.52",
+    "fk_customer": 183,
+    "fk_user": 27,
+    "sale_date": "12/7/2019",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 332,
+    "value": "$187.78",
+    "fk_customer": 172,
+    "fk_user": 27,
+    "sale_date": "11/30/2021",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 333,
+    "value": "$3.17",
+    "fk_customer": 795,
+    "fk_user": 27,
+    "sale_date": "3/21/2019",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 334,
+    "value": "$174.29",
+    "fk_customer": 262,
+    "fk_user": 11,
+    "sale_date": "2/18/2015",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 335,
+    "value": "$41.60",
+    "fk_customer": 581,
+    "fk_user": 2,
+    "sale_date": "5/2/2015",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 336,
+    "value": "$291.05",
+    "fk_customer": 417,
+    "fk_user": 14,
+    "sale_date": "4/4/2020",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 337,
+    "value": "$266.04",
+    "fk_customer": 576,
+    "fk_user": 6,
+    "sale_date": "1/27/2022",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 338,
+    "value": "$154.49",
+    "fk_customer": 413,
+    "fk_user": 1,
+    "sale_date": "10/15/2015",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 339,
+    "value": "$156.61",
+    "fk_customer": 968,
+    "fk_user": 30,
+    "sale_date": "2/25/2017",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 340,
+    "value": "$22.49",
+    "fk_customer": 204,
+    "fk_user": 8,
+    "sale_date": "12/11/2021",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 341,
+    "value": "$240.79",
+    "fk_customer": 871,
+    "fk_user": 14,
+    "sale_date": "5/19/2018",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 342,
+    "value": "$79.29",
+    "fk_customer": 737,
+    "fk_user": 17,
+    "sale_date": "10/16/2016",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 343,
+    "value": "$31.58",
+    "fk_customer": 777,
+    "fk_user": 29,
+    "sale_date": "5/30/2020",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 344,
+    "value": "$163.33",
+    "fk_customer": 367,
+    "fk_user": 4,
+    "sale_date": "9/11/2022",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 345,
+    "value": "$251.97",
+    "fk_customer": 45,
+    "fk_user": 18,
+    "sale_date": "4/10/2016",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 346,
+    "value": "$258.94",
+    "fk_customer": 439,
+    "fk_user": 19,
+    "sale_date": "10/6/2016",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 347,
+    "value": "$112.89",
+    "fk_customer": 559,
+    "fk_user": 10,
+    "sale_date": "2/4/2023",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 348,
+    "value": "$287.58",
+    "fk_customer": 902,
+    "fk_user": 7,
+    "sale_date": "1/2/2021",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 349,
+    "value": "$204.79",
+    "fk_customer": 44,
+    "fk_user": 14,
+    "sale_date": "10/26/2017",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 350,
+    "value": "$19.60",
+    "fk_customer": 222,
+    "fk_user": 1,
+    "sale_date": "11/22/2019",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 351,
+    "value": "$217.95",
+    "fk_customer": 844,
+    "fk_user": 18,
+    "sale_date": "12/7/2019",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 352,
+    "value": "$25.05",
+    "fk_customer": 401,
+    "fk_user": 28,
+    "sale_date": "9/13/2022",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 353,
+    "value": "$29.66",
+    "fk_customer": 497,
+    "fk_user": 26,
+    "sale_date": "12/14/2022",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 354,
+    "value": "$31.97",
+    "fk_customer": 184,
+    "fk_user": 5,
+    "sale_date": "2/12/2020",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 355,
+    "value": "$267.68",
+    "fk_customer": 810,
+    "fk_user": 13,
+    "sale_date": "8/7/2019",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 356,
+    "value": "$242.16",
+    "fk_customer": 939,
+    "fk_user": 15,
+    "sale_date": "9/12/2015",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 357,
+    "value": "$274.49",
+    "fk_customer": 943,
+    "fk_user": 8,
+    "sale_date": "11/4/2015",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 358,
+    "value": "$109.43",
+    "fk_customer": 947,
+    "fk_user": 16,
+    "sale_date": "4/12/2020",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 359,
+    "value": "$138.39",
+    "fk_customer": 765,
+    "fk_user": 26,
+    "sale_date": "6/12/2016",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 360,
+    "value": "$277.85",
+    "fk_customer": 905,
+    "fk_user": 11,
+    "sale_date": "11/14/2015",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 361,
+    "value": "$93.73",
+    "fk_customer": 756,
+    "fk_user": 2,
+    "sale_date": "1/17/2023",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 362,
+    "value": "$134.24",
+    "fk_customer": 449,
+    "fk_user": 2,
+    "sale_date": "8/15/2018",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 363,
+    "value": "$16.68",
+    "fk_customer": 200,
+    "fk_user": 18,
+    "sale_date": "1/10/2017",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 364,
+    "value": "$166.63",
+    "fk_customer": 536,
+    "fk_user": 19,
+    "sale_date": "9/27/2022",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 365,
+    "value": "$124.44",
+    "fk_customer": 742,
+    "fk_user": 9,
+    "sale_date": "10/10/2019",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 366,
+    "value": "$141.82",
+    "fk_customer": 800,
+    "fk_user": 27,
+    "sale_date": "11/27/2018",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 367,
+    "value": "$177.95",
+    "fk_customer": 550,
+    "fk_user": 14,
+    "sale_date": "5/5/2017",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 368,
+    "value": "$100.44",
+    "fk_customer": 778,
+    "fk_user": 25,
+    "sale_date": "4/5/2018",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 369,
+    "value": "$187.66",
+    "fk_customer": 526,
+    "fk_user": 20,
+    "sale_date": "6/25/2017",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 370,
+    "value": "$185.68",
+    "fk_customer": 107,
+    "fk_user": 20,
+    "sale_date": "2/25/2023",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 371,
+    "value": "$235.26",
+    "fk_customer": 933,
+    "fk_user": 3,
+    "sale_date": "7/10/2019",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 372,
+    "value": "$86.02",
+    "fk_customer": 485,
+    "fk_user": 8,
+    "sale_date": "4/4/2019",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 373,
+    "value": "$195.66",
+    "fk_customer": 217,
+    "fk_user": 14,
+    "sale_date": "8/22/2016",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 374,
+    "value": "$78.89",
+    "fk_customer": 956,
+    "fk_user": 9,
+    "sale_date": "8/6/2021",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 375,
+    "value": "$128.83",
+    "fk_customer": 843,
+    "fk_user": 10,
+    "sale_date": "11/8/2018",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 376,
+    "value": "$294.26",
+    "fk_customer": 206,
+    "fk_user": 16,
+    "sale_date": "4/9/2020",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 377,
+    "value": "$159.74",
+    "fk_customer": 493,
+    "fk_user": 25,
+    "sale_date": "9/23/2017",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 378,
+    "value": "$98.88",
+    "fk_customer": 424,
+    "fk_user": 9,
+    "sale_date": "5/26/2022",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 379,
+    "value": "$21.29",
+    "fk_customer": 362,
+    "fk_user": 20,
+    "sale_date": "2/23/2015",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 380,
+    "value": "$119.36",
+    "fk_customer": 301,
+    "fk_user": 4,
+    "sale_date": "6/18/2022",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 381,
+    "value": "$137.39",
+    "fk_customer": 867,
+    "fk_user": 24,
+    "sale_date": "4/20/2015",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 382,
+    "value": "$203.18",
+    "fk_customer": 206,
+    "fk_user": 19,
+    "sale_date": "4/13/2016",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 383,
+    "value": "$63.38",
+    "fk_customer": 932,
+    "fk_user": 25,
+    "sale_date": "3/31/2020",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 384,
+    "value": "$145.94",
+    "fk_customer": 431,
+    "fk_user": 23,
+    "sale_date": "4/26/2015",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 385,
+    "value": "$130.96",
+    "fk_customer": 342,
+    "fk_user": 9,
+    "sale_date": "7/6/2016",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 386,
+    "value": "$46.87",
+    "fk_customer": 956,
+    "fk_user": 6,
+    "sale_date": "3/21/2018",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 387,
+    "value": "$10.00",
+    "fk_customer": 990,
+    "fk_user": 20,
+    "sale_date": "1/7/2016",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 388,
+    "value": "$98.66",
+    "fk_customer": 668,
+    "fk_user": 5,
+    "sale_date": "4/25/2020",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 389,
+    "value": "$288.30",
+    "fk_customer": 896,
+    "fk_user": 15,
+    "sale_date": "6/3/2020",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 390,
+    "value": "$285.07",
+    "fk_customer": 637,
+    "fk_user": 25,
+    "sale_date": "7/29/2022",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 391,
+    "value": "$85.78",
+    "fk_customer": 542,
+    "fk_user": 9,
+    "sale_date": "3/10/2023",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 392,
+    "value": "$161.23",
+    "fk_customer": 439,
+    "fk_user": 27,
+    "sale_date": "9/20/2022",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 393,
+    "value": "$11.55",
+    "fk_customer": 73,
+    "fk_user": 30,
+    "sale_date": "1/2/2015",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 394,
+    "value": "$160.06",
+    "fk_customer": 954,
+    "fk_user": 22,
+    "sale_date": "9/13/2021",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 395,
+    "value": "$4.66",
+    "fk_customer": 674,
+    "fk_user": 8,
+    "sale_date": "4/15/2015",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 396,
+    "value": "$38.66",
+    "fk_customer": 349,
+    "fk_user": 12,
+    "sale_date": "6/4/2017",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 397,
+    "value": "$40.46",
+    "fk_customer": 731,
+    "fk_user": 24,
+    "sale_date": "4/25/2017",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 398,
+    "value": "$243.66",
+    "fk_customer": 135,
+    "fk_user": 9,
+    "sale_date": "6/19/2016",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 399,
+    "value": "$85.27",
+    "fk_customer": 810,
+    "fk_user": 11,
+    "sale_date": "6/6/2021",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 400,
+    "value": "$269.54",
+    "fk_customer": 197,
+    "fk_user": 21,
+    "sale_date": "9/22/2019",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 401,
+    "value": "$294.62",
+    "fk_customer": 242,
+    "fk_user": 29,
+    "sale_date": "5/23/2019",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 402,
+    "value": "$52.15",
+    "fk_customer": 598,
+    "fk_user": 8,
+    "sale_date": "3/14/2018",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 403,
+    "value": "$235.36",
+    "fk_customer": 917,
+    "fk_user": 30,
+    "sale_date": "10/23/2018",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 404,
+    "value": "$270.48",
+    "fk_customer": 872,
+    "fk_user": 11,
+    "sale_date": "7/22/2021",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 405,
+    "value": "$279.40",
+    "fk_customer": 3,
+    "fk_user": 4,
+    "sale_date": "8/25/2019",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 406,
+    "value": "$293.52",
+    "fk_customer": 898,
+    "fk_user": 27,
+    "sale_date": "5/20/2019",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 407,
+    "value": "$28.17",
+    "fk_customer": 811,
+    "fk_user": 12,
+    "sale_date": "1/30/2017",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 408,
+    "value": "$199.54",
+    "fk_customer": 224,
+    "fk_user": 24,
+    "sale_date": "8/14/2017",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 409,
+    "value": "$140.30",
+    "fk_customer": 579,
+    "fk_user": 24,
+    "sale_date": "6/20/2016",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 410,
+    "value": "$295.62",
+    "fk_customer": 301,
+    "fk_user": 20,
+    "sale_date": "10/8/2022",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 411,
+    "value": "$261.97",
+    "fk_customer": 435,
+    "fk_user": 10,
+    "sale_date": "9/28/2016",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 412,
+    "value": "$103.55",
+    "fk_customer": 143,
+    "fk_user": 29,
+    "sale_date": "2/21/2015",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 413,
+    "value": "$259.10",
+    "fk_customer": 557,
+    "fk_user": 21,
+    "sale_date": "12/28/2022",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 414,
+    "value": "$290.20",
+    "fk_customer": 896,
+    "fk_user": 17,
+    "sale_date": "11/25/2019",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 415,
+    "value": "$30.93",
+    "fk_customer": 872,
+    "fk_user": 20,
+    "sale_date": "6/2/2022",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 416,
+    "value": "$63.70",
+    "fk_customer": 91,
+    "fk_user": 15,
+    "sale_date": "5/27/2016",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 417,
+    "value": "$143.06",
+    "fk_customer": 566,
+    "fk_user": 1,
+    "sale_date": "3/9/2019",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 418,
+    "value": "$60.82",
+    "fk_customer": 842,
+    "fk_user": 15,
+    "sale_date": "2/6/2016",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 419,
+    "value": "$172.13",
+    "fk_customer": 130,
+    "fk_user": 8,
+    "sale_date": "6/17/2016",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 420,
+    "value": "$288.14",
+    "fk_customer": 749,
+    "fk_user": 5,
+    "sale_date": "7/26/2015",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 421,
+    "value": "$55.23",
+    "fk_customer": 897,
+    "fk_user": 16,
+    "sale_date": "1/24/2016",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 422,
+    "value": "$37.09",
+    "fk_customer": 366,
+    "fk_user": 26,
+    "sale_date": "10/12/2019",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 423,
+    "value": "$8.80",
+    "fk_customer": 797,
+    "fk_user": 23,
+    "sale_date": "6/6/2020",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 424,
+    "value": "$136.90",
+    "fk_customer": 500,
+    "fk_user": 1,
+    "sale_date": "10/7/2019",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 425,
+    "value": "$119.55",
+    "fk_customer": 658,
+    "fk_user": 15,
+    "sale_date": "12/13/2017",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 426,
+    "value": "$235.51",
+    "fk_customer": 785,
+    "fk_user": 26,
+    "sale_date": "9/18/2021",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 427,
+    "value": "$34.80",
+    "fk_customer": 904,
+    "fk_user": 19,
+    "sale_date": "8/3/2015",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 428,
+    "value": "$201.51",
+    "fk_customer": 468,
+    "fk_user": 9,
+    "sale_date": "7/14/2020",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 429,
+    "value": "$194.84",
+    "fk_customer": 965,
+    "fk_user": 25,
+    "sale_date": "1/28/2019",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 430,
+    "value": "$65.14",
+    "fk_customer": 849,
+    "fk_user": 27,
+    "sale_date": "6/6/2019",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 431,
+    "value": "$37.89",
+    "fk_customer": 458,
+    "fk_user": 19,
+    "sale_date": "6/8/2017",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 432,
+    "value": "$35.41",
+    "fk_customer": 562,
+    "fk_user": 24,
+    "sale_date": "8/16/2019",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 433,
+    "value": "$250.20",
+    "fk_customer": 359,
+    "fk_user": 5,
+    "sale_date": "3/11/2023",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 434,
+    "value": "$105.91",
+    "fk_customer": 483,
+    "fk_user": 5,
+    "sale_date": "3/12/2023",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 435,
+    "value": "$172.17",
+    "fk_customer": 298,
+    "fk_user": 25,
+    "sale_date": "1/16/2015",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 436,
+    "value": "$61.90",
+    "fk_customer": 408,
+    "fk_user": 15,
+    "sale_date": "6/23/2018",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 437,
+    "value": "$170.76",
+    "fk_customer": 766,
+    "fk_user": 18,
+    "sale_date": "7/12/2017",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 438,
+    "value": "$185.45",
+    "fk_customer": 815,
+    "fk_user": 26,
+    "sale_date": "2/6/2022",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 439,
+    "value": "$280.77",
+    "fk_customer": 335,
+    "fk_user": 25,
+    "sale_date": "12/31/2022",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 440,
+    "value": "$198.44",
+    "fk_customer": 5,
+    "fk_user": 11,
+    "sale_date": "6/30/2015",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 441,
+    "value": "$80.75",
+    "fk_customer": 325,
+    "fk_user": 7,
+    "sale_date": "1/2/2016",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 442,
+    "value": "$236.52",
+    "fk_customer": 706,
+    "fk_user": 7,
+    "sale_date": "5/4/2015",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 443,
+    "value": "$259.72",
+    "fk_customer": 699,
+    "fk_user": 9,
+    "sale_date": "9/14/2019",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 444,
+    "value": "$132.69",
+    "fk_customer": 288,
+    "fk_user": 2,
+    "sale_date": "9/4/2019",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 445,
+    "value": "$91.76",
+    "fk_customer": 729,
+    "fk_user": 23,
+    "sale_date": "3/9/2015",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 446,
+    "value": "$161.34",
+    "fk_customer": 865,
+    "fk_user": 15,
+    "sale_date": "4/30/2021",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 447,
+    "value": "$27.48",
+    "fk_customer": 124,
+    "fk_user": 11,
+    "sale_date": "7/2/2020",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 448,
+    "value": "$149.36",
+    "fk_customer": 211,
+    "fk_user": 15,
+    "sale_date": "7/12/2017",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 449,
+    "value": "$104.25",
+    "fk_customer": 284,
+    "fk_user": 18,
+    "sale_date": "9/15/2016",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 450,
+    "value": "$187.08",
+    "fk_customer": 236,
+    "fk_user": 23,
+    "sale_date": "8/25/2018",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 451,
+    "value": "$174.87",
+    "fk_customer": 926,
+    "fk_user": 24,
+    "sale_date": "3/30/2020",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 452,
+    "value": "$249.20",
+    "fk_customer": 245,
+    "fk_user": 25,
+    "sale_date": "5/5/2016",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 453,
+    "value": "$217.81",
+    "fk_customer": 836,
+    "fk_user": 23,
+    "sale_date": "10/5/2021",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 454,
+    "value": "$73.62",
+    "fk_customer": 901,
+    "fk_user": 6,
+    "sale_date": "5/20/2021",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 455,
+    "value": "$91.86",
+    "fk_customer": 909,
+    "fk_user": 4,
+    "sale_date": "7/7/2017",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 456,
+    "value": "$204.42",
+    "fk_customer": 955,
+    "fk_user": 16,
+    "sale_date": "12/21/2015",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 457,
+    "value": "$286.98",
+    "fk_customer": 350,
+    "fk_user": 2,
+    "sale_date": "1/24/2022",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 458,
+    "value": "$152.54",
+    "fk_customer": 621,
+    "fk_user": 9,
+    "sale_date": "3/11/2021",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 459,
+    "value": "$190.58",
+    "fk_customer": 181,
+    "fk_user": 26,
+    "sale_date": "6/22/2018",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 460,
+    "value": "$151.37",
+    "fk_customer": 69,
+    "fk_user": 15,
+    "sale_date": "11/10/2018",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 461,
+    "value": "$108.93",
+    "fk_customer": 811,
+    "fk_user": 21,
+    "sale_date": "4/16/2022",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 462,
+    "value": "$186.98",
+    "fk_customer": 596,
+    "fk_user": 28,
+    "sale_date": "1/1/2016",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 463,
+    "value": "$197.65",
+    "fk_customer": 716,
+    "fk_user": 19,
+    "sale_date": "1/24/2020",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 464,
+    "value": "$88.92",
+    "fk_customer": 350,
+    "fk_user": 11,
+    "sale_date": "2/3/2021",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 465,
+    "value": "$60.72",
+    "fk_customer": 141,
+    "fk_user": 5,
+    "sale_date": "10/16/2017",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 466,
+    "value": "$145.46",
+    "fk_customer": 94,
+    "fk_user": 16,
+    "sale_date": "9/5/2022",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 467,
+    "value": "$273.44",
+    "fk_customer": 452,
+    "fk_user": 2,
+    "sale_date": "6/14/2020",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 468,
+    "value": "$148.02",
+    "fk_customer": 646,
+    "fk_user": 5,
+    "sale_date": "10/11/2022",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 469,
+    "value": "$45.80",
+    "fk_customer": 770,
+    "fk_user": 29,
+    "sale_date": "5/20/2016",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 470,
+    "value": "$266.56",
+    "fk_customer": 804,
+    "fk_user": 18,
+    "sale_date": "6/2/2016",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 471,
+    "value": "$39.38",
+    "fk_customer": 1,
+    "fk_user": 6,
+    "sale_date": "1/21/2015",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 472,
+    "value": "$236.86",
+    "fk_customer": 413,
+    "fk_user": 13,
+    "sale_date": "1/22/2015",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 473,
+    "value": "$226.30",
+    "fk_customer": 80,
+    "fk_user": 24,
+    "sale_date": "7/24/2016",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 474,
+    "value": "$142.14",
+    "fk_customer": 947,
+    "fk_user": 9,
+    "sale_date": "12/3/2020",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 475,
+    "value": "$89.43",
+    "fk_customer": 831,
+    "fk_user": 16,
+    "sale_date": "3/27/2020",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 476,
+    "value": "$176.06",
+    "fk_customer": 16,
+    "fk_user": 15,
+    "sale_date": "1/22/2016",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 477,
+    "value": "$248.52",
+    "fk_customer": 917,
+    "fk_user": 15,
+    "sale_date": "1/25/2018",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 478,
+    "value": "$207.14",
+    "fk_customer": 409,
+    "fk_user": 27,
+    "sale_date": "4/9/2015",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 479,
+    "value": "$252.20",
+    "fk_customer": 596,
+    "fk_user": 14,
+    "sale_date": "5/29/2017",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 480,
+    "value": "$192.07",
+    "fk_customer": 664,
+    "fk_user": 2,
+    "sale_date": "4/26/2017",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 481,
+    "value": "$282.25",
+    "fk_customer": 804,
+    "fk_user": 15,
+    "sale_date": "2/16/2017",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 482,
+    "value": "$202.74",
+    "fk_customer": 865,
+    "fk_user": 29,
+    "sale_date": "1/16/2020",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 483,
+    "value": "$48.11",
+    "fk_customer": 40,
+    "fk_user": 21,
+    "sale_date": "5/19/2018",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 484,
+    "value": "$202.47",
+    "fk_customer": 614,
+    "fk_user": 19,
+    "sale_date": "11/9/2015",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 485,
+    "value": "$279.73",
+    "fk_customer": 712,
+    "fk_user": 13,
+    "sale_date": "7/7/2020",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 486,
+    "value": "$58.84",
+    "fk_customer": 70,
+    "fk_user": 13,
+    "sale_date": "4/8/2020",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 487,
+    "value": "$91.80",
+    "fk_customer": 902,
+    "fk_user": 9,
+    "sale_date": "12/24/2016",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 488,
+    "value": "$89.31",
+    "fk_customer": 509,
+    "fk_user": 1,
+    "sale_date": "10/4/2020",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 489,
+    "value": "$230.40",
+    "fk_customer": 241,
+    "fk_user": 2,
+    "sale_date": "5/28/2020",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 490,
+    "value": "$239.61",
+    "fk_customer": 864,
+    "fk_user": 8,
+    "sale_date": "5/8/2015",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 491,
+    "value": "$111.88",
+    "fk_customer": 48,
+    "fk_user": 29,
+    "sale_date": "7/31/2016",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 492,
+    "value": "$64.20",
+    "fk_customer": 475,
+    "fk_user": 26,
+    "sale_date": "5/1/2019",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 493,
+    "value": "$170.82",
+    "fk_customer": 975,
+    "fk_user": 7,
+    "sale_date": "9/18/2021",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 494,
+    "value": "$74.17",
+    "fk_customer": 753,
+    "fk_user": 22,
+    "sale_date": "10/27/2017",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 495,
+    "value": "$104.67",
+    "fk_customer": 889,
+    "fk_user": 1,
+    "sale_date": "1/20/2016",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 496,
+    "value": "$174.65",
+    "fk_customer": 691,
+    "fk_user": 8,
+    "sale_date": "3/19/2022",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 497,
+    "value": "$31.42",
+    "fk_customer": 78,
+    "fk_user": 24,
+    "sale_date": "7/9/2020",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 498,
+    "value": "$15.47",
+    "fk_customer": 127,
+    "fk_user": 8,
+    "sale_date": "1/2/2022",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 499,
+    "value": "$143.42",
+    "fk_customer": 323,
+    "fk_user": 16,
+    "sale_date": "4/19/2019",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 500,
+    "value": "$91.38",
+    "fk_customer": 632,
+    "fk_user": 23,
+    "sale_date": "6/30/2021",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 501,
+    "value": "$238.18",
+    "fk_customer": 811,
+    "fk_user": 21,
+    "sale_date": "1/12/2020",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 502,
+    "value": "$52.43",
+    "fk_customer": 505,
+    "fk_user": 5,
+    "sale_date": "2/12/2017",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 503,
+    "value": "$166.54",
+    "fk_customer": 943,
+    "fk_user": 1,
+    "sale_date": "7/26/2022",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 504,
+    "value": "$151.47",
+    "fk_customer": 373,
+    "fk_user": 18,
+    "sale_date": "11/4/2019",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 505,
+    "value": "$115.82",
+    "fk_customer": 718,
+    "fk_user": 28,
+    "sale_date": "6/21/2021",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 506,
+    "value": "$0.64",
+    "fk_customer": 464,
+    "fk_user": 1,
+    "sale_date": "9/11/2021",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 507,
+    "value": "$49.51",
+    "fk_customer": 78,
+    "fk_user": 29,
+    "sale_date": "12/22/2015",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 508,
+    "value": "$287.76",
+    "fk_customer": 712,
+    "fk_user": 22,
+    "sale_date": "12/9/2017",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 509,
+    "value": "$136.02",
+    "fk_customer": 674,
+    "fk_user": 8,
+    "sale_date": "3/20/2015",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 510,
+    "value": "$148.73",
+    "fk_customer": 16,
+    "fk_user": 27,
+    "sale_date": "8/6/2020",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 511,
+    "value": "$223.07",
+    "fk_customer": 199,
+    "fk_user": 3,
+    "sale_date": "5/25/2019",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 512,
+    "value": "$196.91",
+    "fk_customer": 610,
+    "fk_user": 20,
+    "sale_date": "12/22/2016",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 513,
+    "value": "$224.30",
+    "fk_customer": 553,
+    "fk_user": 9,
+    "sale_date": "9/20/2021",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 514,
+    "value": "$176.73",
+    "fk_customer": 901,
+    "fk_user": 12,
+    "sale_date": "3/4/2021",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 515,
+    "value": "$28.13",
+    "fk_customer": 972,
+    "fk_user": 28,
+    "sale_date": "1/18/2020",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 516,
+    "value": "$58.86",
+    "fk_customer": 621,
+    "fk_user": 8,
+    "sale_date": "12/29/2018",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 517,
+    "value": "$138.14",
+    "fk_customer": 811,
+    "fk_user": 25,
+    "sale_date": "3/12/2015",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 518,
+    "value": "$175.28",
+    "fk_customer": 798,
+    "fk_user": 2,
+    "sale_date": "8/11/2022",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 519,
+    "value": "$179.87",
+    "fk_customer": 505,
+    "fk_user": 9,
+    "sale_date": "12/24/2015",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 520,
+    "value": "$276.08",
+    "fk_customer": 894,
+    "fk_user": 29,
+    "sale_date": "4/29/2022",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 521,
+    "value": "$298.76",
+    "fk_customer": 190,
+    "fk_user": 3,
+    "sale_date": "3/13/2015",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 522,
+    "value": "$220.08",
+    "fk_customer": 204,
+    "fk_user": 5,
+    "sale_date": "4/6/2016",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 523,
+    "value": "$45.06",
+    "fk_customer": 457,
+    "fk_user": 4,
+    "sale_date": "3/22/2017",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 524,
+    "value": "$9.31",
+    "fk_customer": 284,
+    "fk_user": 15,
+    "sale_date": "9/19/2015",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 525,
+    "value": "$114.74",
+    "fk_customer": 173,
+    "fk_user": 6,
+    "sale_date": "12/9/2019",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 526,
+    "value": "$286.84",
+    "fk_customer": 834,
+    "fk_user": 12,
+    "sale_date": "10/31/2019",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 527,
+    "value": "$71.75",
+    "fk_customer": 290,
+    "fk_user": 29,
+    "sale_date": "12/9/2022",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 528,
+    "value": "$269.62",
+    "fk_customer": 411,
+    "fk_user": 19,
+    "sale_date": "9/23/2019",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 529,
+    "value": "$272.73",
+    "fk_customer": 85,
+    "fk_user": 16,
+    "sale_date": "4/3/2017",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 530,
+    "value": "$132.23",
+    "fk_customer": 993,
+    "fk_user": 5,
+    "sale_date": "9/17/2021",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 531,
+    "value": "$81.69",
+    "fk_customer": 33,
+    "fk_user": 16,
+    "sale_date": "8/22/2019",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 532,
+    "value": "$136.04",
+    "fk_customer": 482,
+    "fk_user": 28,
+    "sale_date": "8/19/2017",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 533,
+    "value": "$108.75",
+    "fk_customer": 114,
+    "fk_user": 12,
+    "sale_date": "3/16/2019",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 534,
+    "value": "$102.50",
+    "fk_customer": 534,
+    "fk_user": 24,
+    "sale_date": "2/26/2019",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 535,
+    "value": "$134.04",
+    "fk_customer": 590,
+    "fk_user": 22,
+    "sale_date": "6/25/2018",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 536,
+    "value": "$268.32",
+    "fk_customer": 190,
+    "fk_user": 9,
+    "sale_date": "4/27/2022",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 537,
+    "value": "$87.70",
+    "fk_customer": 502,
+    "fk_user": 1,
+    "sale_date": "3/8/2016",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 538,
+    "value": "$205.19",
+    "fk_customer": 78,
+    "fk_user": 25,
+    "sale_date": "3/25/2015",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 539,
+    "value": "$77.25",
+    "fk_customer": 57,
+    "fk_user": 2,
+    "sale_date": "6/14/2019",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 540,
+    "value": "$102.60",
+    "fk_customer": 58,
+    "fk_user": 27,
+    "sale_date": "1/29/2019",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 541,
+    "value": "$259.52",
+    "fk_customer": 809,
+    "fk_user": 14,
+    "sale_date": "11/2/2022",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 542,
+    "value": "$119.76",
+    "fk_customer": 52,
+    "fk_user": 9,
+    "sale_date": "2/20/2016",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 543,
+    "value": "$112.32",
+    "fk_customer": 907,
+    "fk_user": 11,
+    "sale_date": "11/6/2022",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 544,
+    "value": "$280.01",
+    "fk_customer": 729,
+    "fk_user": 3,
+    "sale_date": "5/19/2020",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 545,
+    "value": "$169.28",
+    "fk_customer": 615,
+    "fk_user": 8,
+    "sale_date": "7/3/2021",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 546,
+    "value": "$169.17",
+    "fk_customer": 149,
+    "fk_user": 10,
+    "sale_date": "5/11/2022",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 547,
+    "value": "$154.30",
+    "fk_customer": 657,
+    "fk_user": 8,
+    "sale_date": "5/31/2016",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 548,
+    "value": "$204.39",
+    "fk_customer": 433,
+    "fk_user": 20,
+    "sale_date": "9/15/2021",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 549,
+    "value": "$98.95",
+    "fk_customer": 105,
+    "fk_user": 4,
+    "sale_date": "1/12/2015",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 550,
+    "value": "$141.51",
+    "fk_customer": 301,
+    "fk_user": 1,
+    "sale_date": "9/9/2020",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 551,
+    "value": "$49.70",
+    "fk_customer": 116,
+    "fk_user": 30,
+    "sale_date": "3/10/2022",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 552,
+    "value": "$268.42",
+    "fk_customer": 236,
+    "fk_user": 19,
+    "sale_date": "8/28/2017",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 553,
+    "value": "$85.40",
+    "fk_customer": 754,
+    "fk_user": 29,
+    "sale_date": "6/27/2015",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 554,
+    "value": "$84.53",
+    "fk_customer": 420,
+    "fk_user": 17,
+    "sale_date": "11/21/2018",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 555,
+    "value": "$184.69",
+    "fk_customer": 413,
+    "fk_user": 14,
+    "sale_date": "7/5/2017",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 556,
+    "value": "$195.86",
+    "fk_customer": 159,
+    "fk_user": 30,
+    "sale_date": "2/21/2015",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 557,
+    "value": "$67.23",
+    "fk_customer": 819,
+    "fk_user": 24,
+    "sale_date": "4/24/2019",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 558,
+    "value": "$219.65",
+    "fk_customer": 247,
+    "fk_user": 19,
+    "sale_date": "2/7/2021",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 559,
+    "value": "$92.46",
+    "fk_customer": 316,
+    "fk_user": 17,
+    "sale_date": "4/17/2019",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 560,
+    "value": "$208.26",
+    "fk_customer": 344,
+    "fk_user": 7,
+    "sale_date": "3/25/2017",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 561,
+    "value": "$188.49",
+    "fk_customer": 124,
+    "fk_user": 9,
+    "sale_date": "1/30/2017",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 562,
+    "value": "$275.55",
+    "fk_customer": 413,
+    "fk_user": 2,
+    "sale_date": "12/12/2015",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 563,
+    "value": "$79.38",
+    "fk_customer": 499,
+    "fk_user": 24,
+    "sale_date": "5/7/2020",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 564,
+    "value": "$258.52",
+    "fk_customer": 330,
+    "fk_user": 10,
+    "sale_date": "3/2/2017",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 565,
+    "value": "$207.96",
+    "fk_customer": 8,
+    "fk_user": 15,
+    "sale_date": "6/21/2017",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 566,
+    "value": "$17.30",
+    "fk_customer": 497,
+    "fk_user": 17,
+    "sale_date": "10/4/2016",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 567,
+    "value": "$13.20",
+    "fk_customer": 148,
+    "fk_user": 8,
+    "sale_date": "3/13/2022",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 568,
+    "value": "$168.00",
+    "fk_customer": 410,
+    "fk_user": 3,
+    "sale_date": "9/24/2021",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 569,
+    "value": "$247.07",
+    "fk_customer": 830,
+    "fk_user": 2,
+    "sale_date": "2/13/2023",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 570,
+    "value": "$103.32",
+    "fk_customer": 681,
+    "fk_user": 6,
+    "sale_date": "9/28/2016",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 571,
+    "value": "$223.65",
+    "fk_customer": 562,
+    "fk_user": 25,
+    "sale_date": "6/25/2016",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 572,
+    "value": "$233.50",
+    "fk_customer": 492,
+    "fk_user": 1,
+    "sale_date": "3/8/2019",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 573,
+    "value": "$263.74",
+    "fk_customer": 326,
+    "fk_user": 1,
+    "sale_date": "3/10/2022",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 574,
+    "value": "$22.16",
+    "fk_customer": 776,
+    "fk_user": 17,
+    "sale_date": "8/28/2022",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 575,
+    "value": "$256.58",
+    "fk_customer": 114,
+    "fk_user": 13,
+    "sale_date": "3/20/2022",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 576,
+    "value": "$23.57",
+    "fk_customer": 493,
+    "fk_user": 15,
+    "sale_date": "7/3/2016",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 577,
+    "value": "$192.58",
+    "fk_customer": 594,
+    "fk_user": 30,
+    "sale_date": "6/29/2017",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 578,
+    "value": "$297.98",
+    "fk_customer": 951,
+    "fk_user": 28,
+    "sale_date": "8/25/2017",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 579,
+    "value": "$86.69",
+    "fk_customer": 337,
+    "fk_user": 9,
+    "sale_date": "11/2/2015",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 580,
+    "value": "$57.32",
+    "fk_customer": 783,
+    "fk_user": 15,
+    "sale_date": "12/11/2021",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 581,
+    "value": "$256.90",
+    "fk_customer": 958,
+    "fk_user": 14,
+    "sale_date": "8/14/2015",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 582,
+    "value": "$70.45",
+    "fk_customer": 263,
+    "fk_user": 28,
+    "sale_date": "10/23/2021",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 583,
+    "value": "$86.88",
+    "fk_customer": 840,
+    "fk_user": 14,
+    "sale_date": "8/16/2021",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 584,
+    "value": "$294.50",
+    "fk_customer": 337,
+    "fk_user": 7,
+    "sale_date": "8/26/2021",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 585,
+    "value": "$172.91",
+    "fk_customer": 218,
+    "fk_user": 15,
+    "sale_date": "2/24/2017",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 586,
+    "value": "$82.03",
+    "fk_customer": 404,
+    "fk_user": 21,
+    "sale_date": "3/26/2021",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 587,
+    "value": "$156.30",
+    "fk_customer": 259,
+    "fk_user": 7,
+    "sale_date": "4/7/2015",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 588,
+    "value": "$275.62",
+    "fk_customer": 958,
+    "fk_user": 13,
+    "sale_date": "7/7/2017",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 589,
+    "value": "$118.34",
+    "fk_customer": 677,
+    "fk_user": 13,
+    "sale_date": "9/5/2019",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 590,
+    "value": "$204.98",
+    "fk_customer": 678,
+    "fk_user": 2,
+    "sale_date": "5/13/2015",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 591,
+    "value": "$99.86",
+    "fk_customer": 939,
+    "fk_user": 3,
+    "sale_date": "5/5/2018",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 592,
+    "value": "$10.96",
+    "fk_customer": 86,
+    "fk_user": 11,
+    "sale_date": "1/20/2021",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 593,
+    "value": "$21.49",
+    "fk_customer": 555,
+    "fk_user": 14,
+    "sale_date": "11/10/2020",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 594,
+    "value": "$203.11",
+    "fk_customer": 380,
+    "fk_user": 12,
+    "sale_date": "7/6/2016",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 595,
+    "value": "$113.97",
+    "fk_customer": 486,
+    "fk_user": 6,
+    "sale_date": "7/30/2019",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 596,
+    "value": "$82.54",
+    "fk_customer": 268,
+    "fk_user": 4,
+    "sale_date": "5/31/2017",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 597,
+    "value": "$185.09",
+    "fk_customer": 613,
+    "fk_user": 12,
+    "sale_date": "2/1/2017",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 598,
+    "value": "$48.67",
+    "fk_customer": 280,
+    "fk_user": 21,
+    "sale_date": "4/10/2019",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 599,
+    "value": "$272.44",
+    "fk_customer": 914,
+    "fk_user": 24,
+    "sale_date": "7/23/2021",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 600,
+    "value": "$153.92",
+    "fk_customer": 756,
+    "fk_user": 28,
+    "sale_date": "3/27/2015",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 601,
+    "value": "$284.35",
+    "fk_customer": 785,
+    "fk_user": 25,
+    "sale_date": "9/3/2020",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 602,
+    "value": "$208.79",
+    "fk_customer": 820,
+    "fk_user": 21,
+    "sale_date": "7/9/2018",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 603,
+    "value": "$40.23",
+    "fk_customer": 705,
+    "fk_user": 18,
+    "sale_date": "9/18/2018",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 604,
+    "value": "$3.38",
+    "fk_customer": 427,
+    "fk_user": 11,
+    "sale_date": "1/2/2021",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 605,
+    "value": "$282.80",
+    "fk_customer": 928,
+    "fk_user": 11,
+    "sale_date": "1/31/2022",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 606,
+    "value": "$245.58",
+    "fk_customer": 512,
+    "fk_user": 10,
+    "sale_date": "12/31/2018",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 607,
+    "value": "$161.54",
+    "fk_customer": 815,
+    "fk_user": 14,
+    "sale_date": "7/17/2015",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 608,
+    "value": "$137.57",
+    "fk_customer": 524,
+    "fk_user": 24,
+    "sale_date": "3/14/2021",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 609,
+    "value": "$99.90",
+    "fk_customer": 861,
+    "fk_user": 16,
+    "sale_date": "4/15/2019",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 610,
+    "value": "$255.69",
+    "fk_customer": 566,
+    "fk_user": 30,
+    "sale_date": "1/3/2016",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 611,
+    "value": "$86.56",
+    "fk_customer": 919,
+    "fk_user": 25,
+    "sale_date": "2/10/2018",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 612,
+    "value": "$39.44",
+    "fk_customer": 980,
+    "fk_user": 4,
+    "sale_date": "2/4/2016",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 613,
+    "value": "$114.87",
+    "fk_customer": 855,
+    "fk_user": 26,
+    "sale_date": "5/4/2022",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 614,
+    "value": "$134.36",
+    "fk_customer": 226,
+    "fk_user": 22,
+    "sale_date": "1/21/2023",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 615,
+    "value": "$79.50",
+    "fk_customer": 418,
+    "fk_user": 30,
+    "sale_date": "10/12/2016",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 616,
+    "value": "$104.40",
+    "fk_customer": 687,
+    "fk_user": 25,
+    "sale_date": "3/2/2020",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 617,
+    "value": "$52.38",
+    "fk_customer": 255,
+    "fk_user": 27,
+    "sale_date": "5/11/2018",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 618,
+    "value": "$217.32",
+    "fk_customer": 862,
+    "fk_user": 19,
+    "sale_date": "11/11/2018",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 619,
+    "value": "$202.86",
+    "fk_customer": 225,
+    "fk_user": 8,
+    "sale_date": "1/24/2023",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 620,
+    "value": "$206.73",
+    "fk_customer": 973,
+    "fk_user": 23,
+    "sale_date": "5/10/2022",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 621,
+    "value": "$52.67",
+    "fk_customer": 7,
+    "fk_user": 23,
+    "sale_date": "5/27/2017",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 622,
+    "value": "$224.30",
+    "fk_customer": 231,
+    "fk_user": 9,
+    "sale_date": "5/20/2019",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 623,
+    "value": "$101.12",
+    "fk_customer": 887,
+    "fk_user": 17,
+    "sale_date": "8/18/2021",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 624,
+    "value": "$285.07",
+    "fk_customer": 946,
+    "fk_user": 18,
+    "sale_date": "3/25/2021",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 625,
+    "value": "$207.08",
+    "fk_customer": 638,
+    "fk_user": 11,
+    "sale_date": "5/31/2022",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 626,
+    "value": "$299.24",
+    "fk_customer": 148,
+    "fk_user": 8,
+    "sale_date": "9/12/2017",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 627,
+    "value": "$139.68",
+    "fk_customer": 327,
+    "fk_user": 6,
+    "sale_date": "2/25/2021",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 628,
+    "value": "$59.62",
+    "fk_customer": 627,
+    "fk_user": 7,
+    "sale_date": "6/22/2020",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 629,
+    "value": "$71.89",
+    "fk_customer": 136,
+    "fk_user": 6,
+    "sale_date": "7/15/2016",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 630,
+    "value": "$275.92",
+    "fk_customer": 96,
+    "fk_user": 29,
+    "sale_date": "10/4/2021",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 631,
+    "value": "$156.35",
+    "fk_customer": 78,
+    "fk_user": 9,
+    "sale_date": "11/14/2017",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 632,
+    "value": "$58.51",
+    "fk_customer": 613,
+    "fk_user": 10,
+    "sale_date": "12/11/2017",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 633,
+    "value": "$190.42",
+    "fk_customer": 326,
+    "fk_user": 10,
+    "sale_date": "12/21/2022",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 634,
+    "value": "$160.86",
+    "fk_customer": 765,
+    "fk_user": 20,
+    "sale_date": "10/11/2018",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 635,
+    "value": "$127.69",
+    "fk_customer": 329,
+    "fk_user": 29,
+    "sale_date": "11/4/2022",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 636,
+    "value": "$106.66",
+    "fk_customer": 977,
+    "fk_user": 7,
+    "sale_date": "3/3/2017",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 637,
+    "value": "$90.98",
+    "fk_customer": 946,
+    "fk_user": 25,
+    "sale_date": "6/10/2020",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 638,
+    "value": "$35.34",
+    "fk_customer": 450,
+    "fk_user": 2,
+    "sale_date": "10/9/2015",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 639,
+    "value": "$111.58",
+    "fk_customer": 652,
+    "fk_user": 17,
+    "sale_date": "7/11/2015",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 640,
+    "value": "$257.83",
+    "fk_customer": 908,
+    "fk_user": 8,
+    "sale_date": "3/12/2017",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 641,
+    "value": "$176.72",
+    "fk_customer": 528,
+    "fk_user": 16,
+    "sale_date": "11/6/2018",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 642,
+    "value": "$252.61",
+    "fk_customer": 669,
+    "fk_user": 1,
+    "sale_date": "12/24/2016",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 643,
+    "value": "$59.79",
+    "fk_customer": 344,
+    "fk_user": 27,
+    "sale_date": "5/10/2016",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 644,
+    "value": "$253.44",
+    "fk_customer": 849,
+    "fk_user": 7,
+    "sale_date": "10/2/2016",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 645,
+    "value": "$224.20",
+    "fk_customer": 5,
+    "fk_user": 22,
+    "sale_date": "12/5/2020",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 646,
+    "value": "$293.08",
+    "fk_customer": 743,
+    "fk_user": 18,
+    "sale_date": "11/13/2021",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 647,
+    "value": "$147.85",
+    "fk_customer": 222,
+    "fk_user": 22,
+    "sale_date": "6/6/2022",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 648,
+    "value": "$245.99",
+    "fk_customer": 816,
+    "fk_user": 23,
+    "sale_date": "8/1/2021",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 649,
+    "value": "$50.09",
+    "fk_customer": 210,
+    "fk_user": 3,
+    "sale_date": "11/22/2017",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 650,
+    "value": "$274.39",
+    "fk_customer": 224,
+    "fk_user": 6,
+    "sale_date": "9/8/2015",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 651,
+    "value": "$107.48",
+    "fk_customer": 112,
+    "fk_user": 11,
+    "sale_date": "3/24/2018",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 652,
+    "value": "$97.65",
+    "fk_customer": 597,
+    "fk_user": 2,
+    "sale_date": "2/21/2017",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 653,
+    "value": "$88.82",
+    "fk_customer": 550,
+    "fk_user": 17,
+    "sale_date": "6/25/2020",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 654,
+    "value": "$155.52",
+    "fk_customer": 211,
+    "fk_user": 3,
+    "sale_date": "8/15/2016",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 655,
+    "value": "$165.22",
+    "fk_customer": 884,
+    "fk_user": 1,
+    "sale_date": "10/13/2016",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 656,
+    "value": "$28.64",
+    "fk_customer": 526,
+    "fk_user": 1,
+    "sale_date": "1/23/2016",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 657,
+    "value": "$195.91",
+    "fk_customer": 80,
+    "fk_user": 5,
+    "sale_date": "11/19/2017",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 658,
+    "value": "$242.65",
+    "fk_customer": 413,
+    "fk_user": 1,
+    "sale_date": "2/20/2022",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 659,
+    "value": "$209.07",
+    "fk_customer": 444,
+    "fk_user": 20,
+    "sale_date": "12/9/2017",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 660,
+    "value": "$134.22",
+    "fk_customer": 97,
+    "fk_user": 2,
+    "sale_date": "5/26/2020",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 661,
+    "value": "$92.41",
+    "fk_customer": 954,
+    "fk_user": 21,
+    "sale_date": "7/21/2017",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 662,
+    "value": "$47.17",
+    "fk_customer": 388,
+    "fk_user": 8,
+    "sale_date": "7/20/2020",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 663,
+    "value": "$247.11",
+    "fk_customer": 229,
+    "fk_user": 24,
+    "sale_date": "12/9/2016",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 664,
+    "value": "$111.24",
+    "fk_customer": 587,
+    "fk_user": 20,
+    "sale_date": "11/30/2020",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 665,
+    "value": "$236.08",
+    "fk_customer": 679,
+    "fk_user": 7,
+    "sale_date": "1/17/2023",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 666,
+    "value": "$271.80",
+    "fk_customer": 877,
+    "fk_user": 13,
+    "sale_date": "2/22/2018",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 667,
+    "value": "$2.99",
+    "fk_customer": 525,
+    "fk_user": 5,
+    "sale_date": "10/15/2016",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 668,
+    "value": "$175.90",
+    "fk_customer": 661,
+    "fk_user": 28,
+    "sale_date": "1/4/2015",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 669,
+    "value": "$113.38",
+    "fk_customer": 974,
+    "fk_user": 20,
+    "sale_date": "5/11/2015",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 670,
+    "value": "$139.29",
+    "fk_customer": 98,
+    "fk_user": 6,
+    "sale_date": "2/14/2016",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 671,
+    "value": "$269.38",
+    "fk_customer": 769,
+    "fk_user": 16,
+    "sale_date": "4/28/2018",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 672,
+    "value": "$8.07",
+    "fk_customer": 924,
+    "fk_user": 3,
+    "sale_date": "3/17/2017",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 673,
+    "value": "$192.12",
+    "fk_customer": 58,
+    "fk_user": 1,
+    "sale_date": "2/14/2017",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 674,
+    "value": "$187.27",
+    "fk_customer": 450,
+    "fk_user": 3,
+    "sale_date": "7/27/2015",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 675,
+    "value": "$155.65",
+    "fk_customer": 873,
+    "fk_user": 16,
+    "sale_date": "3/2/2017",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 676,
+    "value": "$2.84",
+    "fk_customer": 86,
+    "fk_user": 22,
+    "sale_date": "12/6/2019",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 677,
+    "value": "$73.95",
+    "fk_customer": 385,
+    "fk_user": 13,
+    "sale_date": "10/13/2015",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 678,
+    "value": "$154.66",
+    "fk_customer": 359,
+    "fk_user": 25,
+    "sale_date": "4/1/2020",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 679,
+    "value": "$144.06",
+    "fk_customer": 185,
+    "fk_user": 17,
+    "sale_date": "11/19/2018",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 680,
+    "value": "$126.93",
+    "fk_customer": 538,
+    "fk_user": 28,
+    "sale_date": "12/22/2021",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 681,
+    "value": "$207.39",
+    "fk_customer": 414,
+    "fk_user": 25,
+    "sale_date": "7/11/2020",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 682,
+    "value": "$63.83",
+    "fk_customer": 95,
+    "fk_user": 3,
+    "sale_date": "4/20/2022",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 683,
+    "value": "$23.47",
+    "fk_customer": 345,
+    "fk_user": 8,
+    "sale_date": "4/19/2016",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 684,
+    "value": "$144.76",
+    "fk_customer": 106,
+    "fk_user": 10,
+    "sale_date": "12/17/2016",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 685,
+    "value": "$195.52",
+    "fk_customer": 23,
+    "fk_user": 29,
+    "sale_date": "11/9/2016",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 686,
+    "value": "$173.03",
+    "fk_customer": 76,
+    "fk_user": 18,
+    "sale_date": "3/18/2021",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 687,
+    "value": "$72.02",
+    "fk_customer": 608,
+    "fk_user": 11,
+    "sale_date": "3/6/2023",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 688,
+    "value": "$44.78",
+    "fk_customer": 665,
+    "fk_user": 5,
+    "sale_date": "7/25/2016",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 689,
+    "value": "$168.32",
+    "fk_customer": 353,
+    "fk_user": 16,
+    "sale_date": "8/28/2022",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 690,
+    "value": "$161.81",
+    "fk_customer": 332,
+    "fk_user": 1,
+    "sale_date": "12/30/2021",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 691,
+    "value": "$141.16",
+    "fk_customer": 771,
+    "fk_user": 28,
+    "sale_date": "3/23/2018",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 692,
+    "value": "$284.30",
+    "fk_customer": 127,
+    "fk_user": 23,
+    "sale_date": "12/2/2015",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 693,
+    "value": "$246.85",
+    "fk_customer": 95,
+    "fk_user": 19,
+    "sale_date": "4/15/2015",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 694,
+    "value": "$86.26",
+    "fk_customer": 798,
+    "fk_user": 11,
+    "sale_date": "5/16/2018",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 695,
+    "value": "$271.01",
+    "fk_customer": 158,
+    "fk_user": 21,
+    "sale_date": "4/12/2016",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 696,
+    "value": "$165.67",
+    "fk_customer": 91,
+    "fk_user": 23,
+    "sale_date": "8/22/2019",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 697,
+    "value": "$143.09",
+    "fk_customer": 847,
+    "fk_user": 17,
+    "sale_date": "10/28/2018",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 698,
+    "value": "$220.21",
+    "fk_customer": 694,
+    "fk_user": 22,
+    "sale_date": "6/18/2020",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 699,
+    "value": "$43.64",
+    "fk_customer": 620,
+    "fk_user": 1,
+    "sale_date": "3/21/2018",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 700,
+    "value": "$46.28",
+    "fk_customer": 117,
+    "fk_user": 25,
+    "sale_date": "10/30/2018",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 701,
+    "value": "$278.03",
+    "fk_customer": 481,
+    "fk_user": 22,
+    "sale_date": "1/21/2021",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 702,
+    "value": "$195.13",
+    "fk_customer": 375,
+    "fk_user": 7,
+    "sale_date": "4/12/2016",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 703,
+    "value": "$160.03",
+    "fk_customer": 739,
+    "fk_user": 10,
+    "sale_date": "9/10/2019",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 704,
+    "value": "$95.09",
+    "fk_customer": 419,
+    "fk_user": 30,
+    "sale_date": "1/7/2023",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 705,
+    "value": "$221.54",
+    "fk_customer": 110,
+    "fk_user": 26,
+    "sale_date": "12/16/2017",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 706,
+    "value": "$68.11",
+    "fk_customer": 57,
+    "fk_user": 22,
+    "sale_date": "11/3/2022",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 707,
+    "value": "$186.27",
+    "fk_customer": 295,
+    "fk_user": 1,
+    "sale_date": "12/16/2015",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 708,
+    "value": "$219.14",
+    "fk_customer": 797,
+    "fk_user": 29,
+    "sale_date": "8/14/2022",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 709,
+    "value": "$112.95",
+    "fk_customer": 932,
+    "fk_user": 1,
+    "sale_date": "10/30/2019",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 710,
+    "value": "$15.11",
+    "fk_customer": 593,
+    "fk_user": 20,
+    "sale_date": "1/24/2016",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 711,
+    "value": "$239.35",
+    "fk_customer": 334,
+    "fk_user": 21,
+    "sale_date": "10/14/2017",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 712,
+    "value": "$291.88",
+    "fk_customer": 323,
+    "fk_user": 17,
+    "sale_date": "1/14/2020",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 713,
+    "value": "$51.22",
+    "fk_customer": 951,
+    "fk_user": 30,
+    "sale_date": "9/22/2019",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 714,
+    "value": "$218.43",
+    "fk_customer": 952,
+    "fk_user": 27,
+    "sale_date": "7/10/2016",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 715,
+    "value": "$55.19",
+    "fk_customer": 931,
+    "fk_user": 5,
+    "sale_date": "1/3/2022",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 716,
+    "value": "$17.39",
+    "fk_customer": 122,
+    "fk_user": 9,
+    "sale_date": "1/6/2023",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 717,
+    "value": "$5.92",
+    "fk_customer": 426,
+    "fk_user": 8,
+    "sale_date": "4/24/2020",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 718,
+    "value": "$193.05",
+    "fk_customer": 872,
+    "fk_user": 17,
+    "sale_date": "12/1/2018",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 719,
+    "value": "$182.27",
+    "fk_customer": 860,
+    "fk_user": 17,
+    "sale_date": "6/22/2022",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 720,
+    "value": "$247.53",
+    "fk_customer": 462,
+    "fk_user": 28,
+    "sale_date": "6/15/2020",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 721,
+    "value": "$217.30",
+    "fk_customer": 667,
+    "fk_user": 28,
+    "sale_date": "3/7/2018",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 722,
+    "value": "$53.58",
+    "fk_customer": 251,
+    "fk_user": 28,
+    "sale_date": "3/29/2020",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 723,
+    "value": "$57.95",
+    "fk_customer": 470,
+    "fk_user": 15,
+    "sale_date": "10/20/2019",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 724,
+    "value": "$1.82",
+    "fk_customer": 304,
+    "fk_user": 2,
+    "sale_date": "11/20/2017",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 725,
+    "value": "$12.15",
+    "fk_customer": 473,
+    "fk_user": 20,
+    "sale_date": "12/20/2018",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 726,
+    "value": "$287.99",
+    "fk_customer": 595,
+    "fk_user": 8,
+    "sale_date": "5/5/2016",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 727,
+    "value": "$49.77",
+    "fk_customer": 159,
+    "fk_user": 15,
+    "sale_date": "10/11/2021",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 728,
+    "value": "$188.07",
+    "fk_customer": 517,
+    "fk_user": 20,
+    "sale_date": "2/6/2018",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 729,
+    "value": "$283.41",
+    "fk_customer": 531,
+    "fk_user": 24,
+    "sale_date": "4/3/2020",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 730,
+    "value": "$293.98",
+    "fk_customer": 100,
+    "fk_user": 18,
+    "sale_date": "1/4/2020",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 731,
+    "value": "$61.23",
+    "fk_customer": 247,
+    "fk_user": 5,
+    "sale_date": "3/27/2017",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 732,
+    "value": "$191.80",
+    "fk_customer": 407,
+    "fk_user": 8,
+    "sale_date": "4/9/2018",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 733,
+    "value": "$139.67",
+    "fk_customer": 527,
+    "fk_user": 18,
+    "sale_date": "3/21/2016",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 734,
+    "value": "$59.03",
+    "fk_customer": 379,
+    "fk_user": 7,
+    "sale_date": "4/2/2016",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 735,
+    "value": "$213.05",
+    "fk_customer": 521,
+    "fk_user": 17,
+    "sale_date": "7/25/2021",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 736,
+    "value": "$46.89",
+    "fk_customer": 746,
+    "fk_user": 7,
+    "sale_date": "12/25/2015",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 737,
+    "value": "$235.93",
+    "fk_customer": 53,
+    "fk_user": 8,
+    "sale_date": "3/18/2016",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 738,
+    "value": "$237.76",
+    "fk_customer": 406,
+    "fk_user": 24,
+    "sale_date": "9/27/2015",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 739,
+    "value": "$56.14",
+    "fk_customer": 6,
+    "fk_user": 19,
+    "sale_date": "4/16/2015",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 740,
+    "value": "$182.26",
+    "fk_customer": 292,
+    "fk_user": 30,
+    "sale_date": "3/22/2016",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 741,
+    "value": "$108.13",
+    "fk_customer": 833,
+    "fk_user": 20,
+    "sale_date": "7/7/2019",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 742,
+    "value": "$105.44",
+    "fk_customer": 890,
+    "fk_user": 19,
+    "sale_date": "1/12/2015",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 743,
+    "value": "$124.51",
+    "fk_customer": 389,
+    "fk_user": 26,
+    "sale_date": "2/5/2016",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 744,
+    "value": "$160.08",
+    "fk_customer": 320,
+    "fk_user": 16,
+    "sale_date": "5/14/2018",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 745,
+    "value": "$217.10",
+    "fk_customer": 761,
+    "fk_user": 11,
+    "sale_date": "11/16/2019",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 746,
+    "value": "$128.71",
+    "fk_customer": 733,
+    "fk_user": 2,
+    "sale_date": "9/27/2016",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 747,
+    "value": "$173.02",
+    "fk_customer": 89,
+    "fk_user": 3,
+    "sale_date": "5/14/2022",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 748,
+    "value": "$131.80",
+    "fk_customer": 793,
+    "fk_user": 23,
+    "sale_date": "8/10/2022",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 749,
+    "value": "$172.79",
+    "fk_customer": 68,
+    "fk_user": 22,
+    "sale_date": "4/6/2019",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 750,
+    "value": "$99.71",
+    "fk_customer": 101,
+    "fk_user": 23,
+    "sale_date": "10/13/2016",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 751,
+    "value": "$20.92",
+    "fk_customer": 77,
+    "fk_user": 16,
+    "sale_date": "1/4/2022",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 752,
+    "value": "$162.58",
+    "fk_customer": 94,
+    "fk_user": 13,
+    "sale_date": "10/25/2018",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 753,
+    "value": "$55.94",
+    "fk_customer": 74,
+    "fk_user": 18,
+    "sale_date": "11/8/2021",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 754,
+    "value": "$12.64",
+    "fk_customer": 880,
+    "fk_user": 13,
+    "sale_date": "1/16/2017",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 755,
+    "value": "$107.02",
+    "fk_customer": 414,
+    "fk_user": 10,
+    "sale_date": "2/11/2022",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 756,
+    "value": "$237.79",
+    "fk_customer": 451,
+    "fk_user": 9,
+    "sale_date": "10/28/2020",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 757,
+    "value": "$109.13",
+    "fk_customer": 195,
+    "fk_user": 13,
+    "sale_date": "11/27/2016",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 758,
+    "value": "$98.40",
+    "fk_customer": 924,
+    "fk_user": 12,
+    "sale_date": "11/17/2016",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 759,
+    "value": "$135.86",
+    "fk_customer": 826,
+    "fk_user": 7,
+    "sale_date": "2/23/2021",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 760,
+    "value": "$212.27",
+    "fk_customer": 84,
+    "fk_user": 5,
+    "sale_date": "12/14/2021",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 761,
+    "value": "$249.78",
+    "fk_customer": 480,
+    "fk_user": 21,
+    "sale_date": "9/3/2016",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 762,
+    "value": "$73.00",
+    "fk_customer": 543,
+    "fk_user": 5,
+    "sale_date": "4/4/2021",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 763,
+    "value": "$257.20",
+    "fk_customer": 855,
+    "fk_user": 2,
+    "sale_date": "1/12/2019",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 764,
+    "value": "$30.69",
+    "fk_customer": 241,
+    "fk_user": 10,
+    "sale_date": "1/19/2016",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 765,
+    "value": "$100.17",
+    "fk_customer": 732,
+    "fk_user": 19,
+    "sale_date": "1/14/2022",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 766,
+    "value": "$278.71",
+    "fk_customer": 30,
+    "fk_user": 7,
+    "sale_date": "11/22/2018",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 767,
+    "value": "$89.83",
+    "fk_customer": 730,
+    "fk_user": 25,
+    "sale_date": "5/28/2015",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 768,
+    "value": "$223.52",
+    "fk_customer": 683,
+    "fk_user": 11,
+    "sale_date": "4/19/2016",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 769,
+    "value": "$179.11",
+    "fk_customer": 214,
+    "fk_user": 19,
+    "sale_date": "12/6/2018",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 770,
+    "value": "$186.28",
+    "fk_customer": 71,
+    "fk_user": 17,
+    "sale_date": "1/12/2015",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 771,
+    "value": "$249.11",
+    "fk_customer": 181,
+    "fk_user": 21,
+    "sale_date": "4/25/2021",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 772,
+    "value": "$189.00",
+    "fk_customer": 915,
+    "fk_user": 13,
+    "sale_date": "5/14/2017",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 773,
+    "value": "$281.70",
+    "fk_customer": 428,
+    "fk_user": 18,
+    "sale_date": "8/15/2022",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 774,
+    "value": "$73.25",
+    "fk_customer": 537,
+    "fk_user": 7,
+    "sale_date": "7/5/2019",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 775,
+    "value": "$137.03",
+    "fk_customer": 101,
+    "fk_user": 17,
+    "sale_date": "7/14/2018",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 776,
+    "value": "$187.48",
+    "fk_customer": 312,
+    "fk_user": 19,
+    "sale_date": "2/11/2022",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 777,
+    "value": "$293.78",
+    "fk_customer": 125,
+    "fk_user": 8,
+    "sale_date": "2/3/2019",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 778,
+    "value": "$247.99",
+    "fk_customer": 384,
+    "fk_user": 5,
+    "sale_date": "2/11/2015",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 779,
+    "value": "$176.57",
+    "fk_customer": 806,
+    "fk_user": 3,
+    "sale_date": "2/16/2015",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 780,
+    "value": "$146.64",
+    "fk_customer": 473,
+    "fk_user": 6,
+    "sale_date": "9/3/2022",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 781,
+    "value": "$234.94",
+    "fk_customer": 716,
+    "fk_user": 17,
+    "sale_date": "12/3/2022",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 782,
+    "value": "$237.36",
+    "fk_customer": 965,
+    "fk_user": 29,
+    "sale_date": "2/26/2016",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 783,
+    "value": "$70.31",
+    "fk_customer": 487,
+    "fk_user": 29,
+    "sale_date": "10/27/2018",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 784,
+    "value": "$46.65",
+    "fk_customer": 163,
+    "fk_user": 21,
+    "sale_date": "7/28/2015",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 785,
+    "value": "$114.71",
+    "fk_customer": 9,
+    "fk_user": 10,
+    "sale_date": "8/2/2019",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 786,
+    "value": "$36.53",
+    "fk_customer": 818,
+    "fk_user": 4,
+    "sale_date": "8/31/2019",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 787,
+    "value": "$117.50",
+    "fk_customer": 611,
+    "fk_user": 7,
+    "sale_date": "6/18/2017",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 788,
+    "value": "$237.72",
+    "fk_customer": 661,
+    "fk_user": 18,
+    "sale_date": "7/3/2021",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 789,
+    "value": "$104.07",
+    "fk_customer": 45,
+    "fk_user": 14,
+    "sale_date": "5/9/2017",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 790,
+    "value": "$245.35",
+    "fk_customer": 791,
+    "fk_user": 18,
+    "sale_date": "10/10/2016",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 791,
+    "value": "$42.38",
+    "fk_customer": 102,
+    "fk_user": 16,
+    "sale_date": "10/25/2017",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 792,
+    "value": "$193.54",
+    "fk_customer": 505,
+    "fk_user": 1,
+    "sale_date": "12/21/2018",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 793,
+    "value": "$145.28",
+    "fk_customer": 330,
+    "fk_user": 1,
+    "sale_date": "11/10/2022",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 794,
+    "value": "$145.37",
+    "fk_customer": 212,
+    "fk_user": 19,
+    "sale_date": "2/27/2015",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 795,
+    "value": "$272.18",
+    "fk_customer": 810,
+    "fk_user": 9,
+    "sale_date": "8/16/2017",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 796,
+    "value": "$263.34",
+    "fk_customer": 214,
+    "fk_user": 19,
+    "sale_date": "10/27/2022",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 797,
+    "value": "$143.88",
+    "fk_customer": 450,
+    "fk_user": 1,
+    "sale_date": "6/17/2020",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 798,
+    "value": "$277.14",
+    "fk_customer": 504,
+    "fk_user": 28,
+    "sale_date": "7/9/2019",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 799,
+    "value": "$162.11",
+    "fk_customer": 360,
+    "fk_user": 30,
+    "sale_date": "4/28/2022",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 800,
+    "value": "$279.62",
+    "fk_customer": 643,
+    "fk_user": 27,
+    "sale_date": "9/22/2021",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 801,
+    "value": "$131.58",
+    "fk_customer": 498,
+    "fk_user": 7,
+    "sale_date": "6/17/2015",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 802,
+    "value": "$197.92",
+    "fk_customer": 73,
+    "fk_user": 3,
+    "sale_date": "12/15/2022",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 803,
+    "value": "$64.03",
+    "fk_customer": 198,
+    "fk_user": 14,
+    "sale_date": "7/22/2020",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 804,
+    "value": "$180.26",
+    "fk_customer": 662,
+    "fk_user": 21,
+    "sale_date": "5/7/2018",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 805,
+    "value": "$134.23",
+    "fk_customer": 615,
+    "fk_user": 15,
+    "sale_date": "12/4/2020",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 806,
+    "value": "$112.84",
+    "fk_customer": 451,
+    "fk_user": 4,
+    "sale_date": "10/22/2021",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 807,
+    "value": "$176.14",
+    "fk_customer": 630,
+    "fk_user": 20,
+    "sale_date": "11/1/2019",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 808,
+    "value": "$83.79",
+    "fk_customer": 301,
+    "fk_user": 7,
+    "sale_date": "10/2/2020",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 809,
+    "value": "$177.56",
+    "fk_customer": 64,
+    "fk_user": 6,
+    "sale_date": "6/19/2017",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 810,
+    "value": "$146.10",
+    "fk_customer": 863,
+    "fk_user": 28,
+    "sale_date": "6/6/2020",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 811,
+    "value": "$0.36",
+    "fk_customer": 107,
+    "fk_user": 23,
+    "sale_date": "2/2/2021",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 812,
+    "value": "$123.87",
+    "fk_customer": 767,
+    "fk_user": 6,
+    "sale_date": "6/21/2021",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 813,
+    "value": "$216.56",
+    "fk_customer": 3,
+    "fk_user": 20,
+    "sale_date": "7/10/2018",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 814,
+    "value": "$288.02",
+    "fk_customer": 262,
+    "fk_user": 15,
+    "sale_date": "11/25/2021",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 815,
+    "value": "$198.29",
+    "fk_customer": 936,
+    "fk_user": 20,
+    "sale_date": "12/29/2017",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 816,
+    "value": "$139.13",
+    "fk_customer": 674,
+    "fk_user": 4,
+    "sale_date": "12/22/2015",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 817,
+    "value": "$236.02",
+    "fk_customer": 890,
+    "fk_user": 7,
+    "sale_date": "7/14/2022",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 818,
+    "value": "$262.91",
+    "fk_customer": 961,
+    "fk_user": 24,
+    "sale_date": "7/16/2020",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 819,
+    "value": "$251.35",
+    "fk_customer": 859,
+    "fk_user": 20,
+    "sale_date": "1/11/2023",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 820,
+    "value": "$279.94",
+    "fk_customer": 379,
+    "fk_user": 27,
+    "sale_date": "5/5/2019",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 821,
+    "value": "$27.70",
+    "fk_customer": 591,
+    "fk_user": 5,
+    "sale_date": "9/20/2018",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 822,
+    "value": "$71.48",
+    "fk_customer": 100,
+    "fk_user": 10,
+    "sale_date": "2/13/2016",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 823,
+    "value": "$75.94",
+    "fk_customer": 117,
+    "fk_user": 10,
+    "sale_date": "5/22/2018",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 824,
+    "value": "$0.82",
+    "fk_customer": 346,
+    "fk_user": 25,
+    "sale_date": "10/7/2019",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 825,
+    "value": "$237.42",
+    "fk_customer": 578,
+    "fk_user": 28,
+    "sale_date": "3/9/2019",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 826,
+    "value": "$293.82",
+    "fk_customer": 990,
+    "fk_user": 10,
+    "sale_date": "8/23/2018",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 827,
+    "value": "$16.15",
+    "fk_customer": 427,
+    "fk_user": 29,
+    "sale_date": "12/4/2017",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 828,
+    "value": "$251.66",
+    "fk_customer": 451,
+    "fk_user": 20,
+    "sale_date": "4/12/2016",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 829,
+    "value": "$100.18",
+    "fk_customer": 163,
+    "fk_user": 28,
+    "sale_date": "10/17/2017",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 830,
+    "value": "$179.09",
+    "fk_customer": 338,
+    "fk_user": 10,
+    "sale_date": "8/22/2016",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 831,
+    "value": "$224.54",
+    "fk_customer": 217,
+    "fk_user": 22,
+    "sale_date": "1/16/2023",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 832,
+    "value": "$195.59",
+    "fk_customer": 972,
+    "fk_user": 3,
+    "sale_date": "10/22/2016",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 833,
+    "value": "$225.10",
+    "fk_customer": 677,
+    "fk_user": 20,
+    "sale_date": "8/5/2022",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 834,
+    "value": "$36.61",
+    "fk_customer": 313,
+    "fk_user": 16,
+    "sale_date": "3/20/2022",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 835,
+    "value": "$85.79",
+    "fk_customer": 332,
+    "fk_user": 16,
+    "sale_date": "11/10/2015",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 836,
+    "value": "$186.25",
+    "fk_customer": 377,
+    "fk_user": 15,
+    "sale_date": "8/6/2022",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 837,
+    "value": "$223.09",
+    "fk_customer": 214,
+    "fk_user": 17,
+    "sale_date": "5/9/2019",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 838,
+    "value": "$167.37",
+    "fk_customer": 943,
+    "fk_user": 14,
+    "sale_date": "11/7/2021",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 839,
+    "value": "$122.21",
+    "fk_customer": 423,
+    "fk_user": 27,
+    "sale_date": "6/14/2021",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 840,
+    "value": "$67.35",
+    "fk_customer": 586,
+    "fk_user": 1,
+    "sale_date": "5/4/2016",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 841,
+    "value": "$92.55",
+    "fk_customer": 71,
+    "fk_user": 3,
+    "sale_date": "6/4/2019",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 842,
+    "value": "$25.62",
+    "fk_customer": 634,
+    "fk_user": 16,
+    "sale_date": "10/25/2015",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 843,
+    "value": "$232.17",
+    "fk_customer": 89,
+    "fk_user": 18,
+    "sale_date": "2/19/2020",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 844,
+    "value": "$245.71",
+    "fk_customer": 207,
+    "fk_user": 10,
+    "sale_date": "3/19/2020",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 845,
+    "value": "$242.85",
+    "fk_customer": 956,
+    "fk_user": 18,
+    "sale_date": "12/14/2022",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 846,
+    "value": "$120.06",
+    "fk_customer": 135,
+    "fk_user": 16,
+    "sale_date": "1/27/2018",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 847,
+    "value": "$71.93",
+    "fk_customer": 987,
+    "fk_user": 26,
+    "sale_date": "12/22/2015",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 848,
+    "value": "$275.70",
+    "fk_customer": 980,
+    "fk_user": 23,
+    "sale_date": "12/19/2018",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 849,
+    "value": "$230.97",
+    "fk_customer": 807,
+    "fk_user": 5,
+    "sale_date": "9/21/2016",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 850,
+    "value": "$72.69",
+    "fk_customer": 45,
+    "fk_user": 8,
+    "sale_date": "2/2/2015",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 851,
+    "value": "$114.97",
+    "fk_customer": 138,
+    "fk_user": 14,
+    "sale_date": "6/24/2018",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 852,
+    "value": "$90.73",
+    "fk_customer": 339,
+    "fk_user": 2,
+    "sale_date": "10/13/2016",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 853,
+    "value": "$151.78",
+    "fk_customer": 760,
+    "fk_user": 27,
+    "sale_date": "3/14/2021",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 854,
+    "value": "$248.67",
+    "fk_customer": 840,
+    "fk_user": 21,
+    "sale_date": "1/31/2018",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 855,
+    "value": "$93.08",
+    "fk_customer": 198,
+    "fk_user": 13,
+    "sale_date": "11/25/2015",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 856,
+    "value": "$20.00",
+    "fk_customer": 200,
+    "fk_user": 29,
+    "sale_date": "4/5/2021",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 857,
+    "value": "$147.04",
+    "fk_customer": 782,
+    "fk_user": 1,
+    "sale_date": "5/11/2018",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 858,
+    "value": "$267.40",
+    "fk_customer": 295,
+    "fk_user": 1,
+    "sale_date": "6/11/2022",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 859,
+    "value": "$143.53",
+    "fk_customer": 643,
+    "fk_user": 11,
+    "sale_date": "5/21/2018",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 860,
+    "value": "$264.15",
+    "fk_customer": 30,
+    "fk_user": 13,
+    "sale_date": "12/1/2016",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 861,
+    "value": "$21.72",
+    "fk_customer": 101,
+    "fk_user": 2,
+    "sale_date": "2/22/2016",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 862,
+    "value": "$162.72",
+    "fk_customer": 518,
+    "fk_user": 4,
+    "sale_date": "10/27/2016",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 863,
+    "value": "$295.88",
+    "fk_customer": 938,
+    "fk_user": 20,
+    "sale_date": "4/27/2022",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 864,
+    "value": "$54.12",
+    "fk_customer": 398,
+    "fk_user": 29,
+    "sale_date": "6/3/2019",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 865,
+    "value": "$173.83",
+    "fk_customer": 598,
+    "fk_user": 25,
+    "sale_date": "3/18/2020",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 866,
+    "value": "$6.34",
+    "fk_customer": 770,
+    "fk_user": 30,
+    "sale_date": "12/31/2022",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 867,
+    "value": "$283.73",
+    "fk_customer": 309,
+    "fk_user": 30,
+    "sale_date": "12/26/2022",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 868,
+    "value": "$292.66",
+    "fk_customer": 883,
+    "fk_user": 1,
+    "sale_date": "9/1/2017",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 869,
+    "value": "$94.07",
+    "fk_customer": 440,
+    "fk_user": 5,
+    "sale_date": "9/1/2019",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 870,
+    "value": "$155.50",
+    "fk_customer": 493,
+    "fk_user": 1,
+    "sale_date": "5/27/2021",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 871,
+    "value": "$213.30",
+    "fk_customer": 98,
+    "fk_user": 2,
+    "sale_date": "12/18/2017",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 872,
+    "value": "$79.85",
+    "fk_customer": 546,
+    "fk_user": 9,
+    "sale_date": "3/2/2023",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 873,
+    "value": "$89.22",
+    "fk_customer": 314,
+    "fk_user": 16,
+    "sale_date": "12/1/2015",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 874,
+    "value": "$26.93",
+    "fk_customer": 693,
+    "fk_user": 4,
+    "sale_date": "10/14/2020",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 875,
+    "value": "$66.24",
+    "fk_customer": 699,
+    "fk_user": 7,
+    "sale_date": "12/23/2019",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 876,
+    "value": "$89.02",
+    "fk_customer": 636,
+    "fk_user": 19,
+    "sale_date": "10/28/2021",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 877,
+    "value": "$263.46",
+    "fk_customer": 666,
+    "fk_user": 21,
+    "sale_date": "7/10/2018",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 878,
+    "value": "$65.74",
+    "fk_customer": 823,
+    "fk_user": 26,
+    "sale_date": "12/17/2018",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 879,
+    "value": "$248.88",
+    "fk_customer": 816,
+    "fk_user": 18,
+    "sale_date": "12/13/2021",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 880,
+    "value": "$294.90",
+    "fk_customer": 205,
+    "fk_user": 2,
+    "sale_date": "4/5/2020",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 881,
+    "value": "$201.09",
+    "fk_customer": 587,
+    "fk_user": 17,
+    "sale_date": "3/20/2022",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 882,
+    "value": "$104.01",
+    "fk_customer": 550,
+    "fk_user": 25,
+    "sale_date": "9/17/2016",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 883,
+    "value": "$135.39",
+    "fk_customer": 336,
+    "fk_user": 2,
+    "sale_date": "5/10/2018",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 884,
+    "value": "$94.04",
+    "fk_customer": 842,
+    "fk_user": 2,
+    "sale_date": "11/11/2018",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 885,
+    "value": "$203.44",
+    "fk_customer": 614,
+    "fk_user": 17,
+    "sale_date": "6/16/2018",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 886,
+    "value": "$171.54",
+    "fk_customer": 569,
+    "fk_user": 14,
+    "sale_date": "9/10/2015",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 887,
+    "value": "$125.27",
+    "fk_customer": 135,
+    "fk_user": 22,
+    "sale_date": "5/21/2017",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 888,
+    "value": "$268.88",
+    "fk_customer": 161,
+    "fk_user": 19,
+    "sale_date": "3/27/2021",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 889,
+    "value": "$136.07",
+    "fk_customer": 474,
+    "fk_user": 14,
+    "sale_date": "10/12/2021",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 890,
+    "value": "$53.09",
+    "fk_customer": 31,
+    "fk_user": 14,
+    "sale_date": "2/21/2019",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 891,
+    "value": "$72.79",
+    "fk_customer": 120,
+    "fk_user": 27,
+    "sale_date": "4/24/2019",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 892,
+    "value": "$10.00",
+    "fk_customer": 817,
+    "fk_user": 9,
+    "sale_date": "10/18/2015",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 893,
+    "value": "$296.62",
+    "fk_customer": 20,
+    "fk_user": 29,
+    "sale_date": "10/26/2016",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 894,
+    "value": "$230.98",
+    "fk_customer": 842,
+    "fk_user": 23,
+    "sale_date": "12/23/2015",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 895,
+    "value": "$44.33",
+    "fk_customer": 375,
+    "fk_user": 18,
+    "sale_date": "10/2/2019",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 896,
+    "value": "$122.64",
+    "fk_customer": 199,
+    "fk_user": 13,
+    "sale_date": "3/3/2017",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 897,
+    "value": "$298.20",
+    "fk_customer": 307,
+    "fk_user": 17,
+    "sale_date": "4/19/2022",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 898,
+    "value": "$68.60",
+    "fk_customer": 220,
+    "fk_user": 26,
+    "sale_date": "8/14/2021",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 899,
+    "value": "$240.84",
+    "fk_customer": 610,
+    "fk_user": 21,
+    "sale_date": "10/10/2017",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 900,
+    "value": "$57.21",
+    "fk_customer": 985,
+    "fk_user": 14,
+    "sale_date": "2/19/2015",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 901,
+    "value": "$173.62",
+    "fk_customer": 310,
+    "fk_user": 17,
+    "sale_date": "4/5/2021",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 902,
+    "value": "$196.68",
+    "fk_customer": 929,
+    "fk_user": 26,
+    "sale_date": "4/7/2021",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 903,
+    "value": "$7.04",
+    "fk_customer": 919,
+    "fk_user": 6,
+    "sale_date": "8/13/2017",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 904,
+    "value": "$290.67",
+    "fk_customer": 139,
+    "fk_user": 15,
+    "sale_date": "5/13/2022",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 905,
+    "value": "$239.82",
+    "fk_customer": 356,
+    "fk_user": 12,
+    "sale_date": "9/9/2015",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 906,
+    "value": "$192.17",
+    "fk_customer": 563,
+    "fk_user": 6,
+    "sale_date": "4/30/2021",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 907,
+    "value": "$14.84",
+    "fk_customer": 545,
+    "fk_user": 5,
+    "sale_date": "9/9/2017",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 908,
+    "value": "$107.11",
+    "fk_customer": 706,
+    "fk_user": 13,
+    "sale_date": "1/17/2021",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 909,
+    "value": "$77.64",
+    "fk_customer": 492,
+    "fk_user": 18,
+    "sale_date": "10/15/2020",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 910,
+    "value": "$23.12",
+    "fk_customer": 707,
+    "fk_user": 26,
+    "sale_date": "4/17/2017",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 911,
+    "value": "$14.08",
+    "fk_customer": 874,
+    "fk_user": 12,
+    "sale_date": "2/19/2018",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 912,
+    "value": "$2.92",
+    "fk_customer": 972,
+    "fk_user": 7,
+    "sale_date": "4/3/2016",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 913,
+    "value": "$292.19",
+    "fk_customer": 900,
+    "fk_user": 18,
+    "sale_date": "6/7/2018",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 914,
+    "value": "$168.81",
+    "fk_customer": 104,
+    "fk_user": 21,
+    "sale_date": "12/28/2018",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 915,
+    "value": "$79.34",
+    "fk_customer": 855,
+    "fk_user": 20,
+    "sale_date": "1/6/2021",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 916,
+    "value": "$287.98",
+    "fk_customer": 912,
+    "fk_user": 15,
+    "sale_date": "6/10/2019",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 917,
+    "value": "$3.13",
+    "fk_customer": 512,
+    "fk_user": 8,
+    "sale_date": "9/20/2019",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 918,
+    "value": "$201.20",
+    "fk_customer": 780,
+    "fk_user": 22,
+    "sale_date": "11/6/2016",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 919,
+    "value": "$43.72",
+    "fk_customer": 977,
+    "fk_user": 24,
+    "sale_date": "1/16/2018",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 920,
+    "value": "$112.97",
+    "fk_customer": 358,
+    "fk_user": 5,
+    "sale_date": "6/29/2018",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 921,
+    "value": "$131.20",
+    "fk_customer": 512,
+    "fk_user": 10,
+    "sale_date": "2/23/2016",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 922,
+    "value": "$119.90",
+    "fk_customer": 541,
+    "fk_user": 7,
+    "sale_date": "6/24/2019",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 923,
+    "value": "$187.61",
+    "fk_customer": 723,
+    "fk_user": 7,
+    "sale_date": "4/7/2020",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 924,
+    "value": "$185.24",
+    "fk_customer": 181,
+    "fk_user": 13,
+    "sale_date": "6/14/2018",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 925,
+    "value": "$293.57",
+    "fk_customer": 221,
+    "fk_user": 8,
+    "sale_date": "10/19/2019",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 926,
+    "value": "$9.74",
+    "fk_customer": 875,
+    "fk_user": 4,
+    "sale_date": "2/14/2021",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 927,
+    "value": "$271.05",
+    "fk_customer": 666,
+    "fk_user": 13,
+    "sale_date": "9/1/2016",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 928,
+    "value": "$215.82",
+    "fk_customer": 220,
+    "fk_user": 15,
+    "sale_date": "2/4/2020",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 929,
+    "value": "$161.90",
+    "fk_customer": 304,
+    "fk_user": 24,
+    "sale_date": "2/20/2015",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 930,
+    "value": "$186.51",
+    "fk_customer": 559,
+    "fk_user": 18,
+    "sale_date": "1/5/2018",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 931,
+    "value": "$295.89",
+    "fk_customer": 923,
+    "fk_user": 24,
+    "sale_date": "8/3/2020",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 932,
+    "value": "$160.22",
+    "fk_customer": 730,
+    "fk_user": 11,
+    "sale_date": "2/6/2015",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 933,
+    "value": "$253.05",
+    "fk_customer": 753,
+    "fk_user": 16,
+    "sale_date": "11/2/2020",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 934,
+    "value": "$73.62",
+    "fk_customer": 214,
+    "fk_user": 21,
+    "sale_date": "7/11/2017",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 935,
+    "value": "$238.29",
+    "fk_customer": 963,
+    "fk_user": 6,
+    "sale_date": "8/20/2020",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 936,
+    "value": "$42.37",
+    "fk_customer": 74,
+    "fk_user": 6,
+    "sale_date": "3/4/2023",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 937,
+    "value": "$184.23",
+    "fk_customer": 395,
+    "fk_user": 28,
+    "sale_date": "4/5/2017",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 938,
+    "value": "$151.88",
+    "fk_customer": 202,
+    "fk_user": 13,
+    "sale_date": "3/28/2015",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 939,
+    "value": "$137.34",
+    "fk_customer": 9,
+    "fk_user": 23,
+    "sale_date": "11/6/2021",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 940,
+    "value": "$114.83",
+    "fk_customer": 519,
+    "fk_user": 1,
+    "sale_date": "11/4/2016",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 941,
+    "value": "$20.08",
+    "fk_customer": 710,
+    "fk_user": 8,
+    "sale_date": "1/14/2017",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 942,
+    "value": "$52.32",
+    "fk_customer": 759,
+    "fk_user": 22,
+    "sale_date": "2/8/2020",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 943,
+    "value": "$121.57",
+    "fk_customer": 293,
+    "fk_user": 4,
+    "sale_date": "12/27/2017",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 944,
+    "value": "$92.45",
+    "fk_customer": 949,
+    "fk_user": 21,
+    "sale_date": "10/7/2016",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 945,
+    "value": "$261.82",
+    "fk_customer": 925,
+    "fk_user": 12,
+    "sale_date": "12/3/2021",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 946,
+    "value": "$60.76",
+    "fk_customer": 753,
+    "fk_user": 13,
+    "sale_date": "3/12/2023",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 947,
+    "value": "$202.95",
+    "fk_customer": 332,
+    "fk_user": 28,
+    "sale_date": "2/5/2016",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 948,
+    "value": "$131.18",
+    "fk_customer": 458,
+    "fk_user": 21,
+    "sale_date": "2/21/2018",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 949,
+    "value": "$174.75",
+    "fk_customer": 321,
+    "fk_user": 20,
+    "sale_date": "9/25/2016",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 950,
+    "value": "$119.85",
+    "fk_customer": 186,
+    "fk_user": 8,
+    "sale_date": "11/8/2018",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 951,
+    "value": "$154.94",
+    "fk_customer": 687,
+    "fk_user": 15,
+    "sale_date": "5/16/2015",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 952,
+    "value": "$180.30",
+    "fk_customer": 904,
+    "fk_user": 26,
+    "sale_date": "10/21/2020",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 953,
+    "value": "$197.84",
+    "fk_customer": 315,
+    "fk_user": 3,
+    "sale_date": "3/15/2015",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 954,
+    "value": "$299.57",
+    "fk_customer": 688,
+    "fk_user": 4,
+    "sale_date": "9/15/2019",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 955,
+    "value": "$256.74",
+    "fk_customer": 754,
+    "fk_user": 28,
+    "sale_date": "3/30/2019",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 956,
+    "value": "$98.35",
+    "fk_customer": 291,
+    "fk_user": 5,
+    "sale_date": "11/7/2020",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 957,
+    "value": "$248.14",
+    "fk_customer": 89,
+    "fk_user": 18,
+    "sale_date": "12/15/2021",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 958,
+    "value": "$281.51",
+    "fk_customer": 255,
+    "fk_user": 12,
+    "sale_date": "3/17/2020",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 959,
+    "value": "$118.11",
+    "fk_customer": 80,
+    "fk_user": 1,
+    "sale_date": "6/6/2020",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 960,
+    "value": "$283.45",
+    "fk_customer": 684,
+    "fk_user": 10,
+    "sale_date": "5/12/2015",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 961,
+    "value": "$75.79",
+    "fk_customer": 150,
+    "fk_user": 22,
+    "sale_date": "7/5/2021",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 962,
+    "value": "$236.83",
+    "fk_customer": 483,
+    "fk_user": 19,
+    "sale_date": "4/14/2017",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 963,
+    "value": "$267.14",
+    "fk_customer": 804,
+    "fk_user": 3,
+    "sale_date": "1/18/2021",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 964,
+    "value": "$35.63",
+    "fk_customer": 42,
+    "fk_user": 15,
+    "sale_date": "12/16/2020",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 965,
+    "value": "$145.52",
+    "fk_customer": 482,
+    "fk_user": 5,
+    "sale_date": "3/8/2016",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 966,
+    "value": "$267.58",
+    "fk_customer": 289,
+    "fk_user": 26,
+    "sale_date": "11/1/2021",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 967,
+    "value": "$227.10",
+    "fk_customer": 92,
+    "fk_user": 29,
+    "sale_date": "1/19/2023",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 968,
+    "value": "$218.33",
+    "fk_customer": 125,
+    "fk_user": 6,
+    "sale_date": "2/22/2017",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 969,
+    "value": "$142.34",
+    "fk_customer": 892,
+    "fk_user": 5,
+    "sale_date": "12/8/2017",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 970,
+    "value": "$175.48",
+    "fk_customer": 707,
+    "fk_user": 17,
+    "sale_date": "6/30/2015",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 971,
+    "value": "$88.89",
+    "fk_customer": 47,
+    "fk_user": 16,
+    "sale_date": "11/30/2020",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 972,
+    "value": "$132.20",
+    "fk_customer": 729,
+    "fk_user": 5,
+    "sale_date": "2/25/2022",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 973,
+    "value": "$22.14",
+    "fk_customer": 955,
+    "fk_user": 6,
+    "sale_date": "3/11/2022",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 974,
+    "value": "$97.91",
+    "fk_customer": 925,
+    "fk_user": 14,
+    "sale_date": "8/12/2021",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 975,
+    "value": "$142.94",
+    "fk_customer": 207,
+    "fk_user": 24,
+    "sale_date": "10/4/2019",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 976,
+    "value": "$141.85",
+    "fk_customer": 95,
+    "fk_user": 26,
+    "sale_date": "7/3/2015",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 977,
+    "value": "$9.82",
+    "fk_customer": 732,
+    "fk_user": 30,
+    "sale_date": "4/12/2020",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 978,
+    "value": "$295.40",
+    "fk_customer": 211,
+    "fk_user": 24,
+    "sale_date": "4/6/2019",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 979,
+    "value": "$69.56",
+    "fk_customer": 565,
+    "fk_user": 2,
+    "sale_date": "5/17/2019",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 980,
+    "value": "$112.59",
+    "fk_customer": 675,
+    "fk_user": 5,
+    "sale_date": "7/26/2018",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 981,
+    "value": "$289.17",
+    "fk_customer": 897,
+    "fk_user": 1,
+    "sale_date": "4/10/2016",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 982,
+    "value": "$104.69",
+    "fk_customer": 912,
+    "fk_user": 3,
+    "sale_date": "10/17/2017",
+    "fk_payment_method": 3
+  },
+  {
+    "sale_id": 983,
+    "value": "$66.73",
+    "fk_customer": 178,
+    "fk_user": 22,
+    "sale_date": "11/4/2022",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 984,
+    "value": "$201.32",
+    "fk_customer": 912,
+    "fk_user": 6,
+    "sale_date": "9/16/2019",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 985,
+    "value": "$30.70",
+    "fk_customer": 852,
+    "fk_user": 20,
+    "sale_date": "9/16/2020",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 986,
+    "value": "$298.52",
+    "fk_customer": 753,
+    "fk_user": 7,
+    "sale_date": "5/3/2021",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 987,
+    "value": "$252.11",
+    "fk_customer": 515,
+    "fk_user": 24,
+    "sale_date": "10/11/2022",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 988,
+    "value": "$82.25",
+    "fk_customer": 256,
+    "fk_user": 6,
+    "sale_date": "8/26/2017",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 989,
+    "value": "$184.00",
+    "fk_customer": 978,
+    "fk_user": 27,
+    "sale_date": "6/15/2015",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 990,
+    "value": "$113.04",
+    "fk_customer": 243,
+    "fk_user": 13,
+    "sale_date": "11/10/2017",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 991,
+    "value": "$278.13",
+    "fk_customer": 866,
+    "fk_user": 19,
+    "sale_date": "7/1/2019",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 992,
+    "value": "$119.98",
+    "fk_customer": 712,
+    "fk_user": 9,
+    "sale_date": "5/12/2016",
+    "fk_payment_method": 6
+  },
+  {
+    "sale_id": 993,
+    "value": "$219.51",
+    "fk_customer": 2,
+    "fk_user": 24,
+    "sale_date": "12/20/2022",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 994,
+    "value": "$61.89",
+    "fk_customer": 870,
+    "fk_user": 26,
+    "sale_date": "1/17/2020",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 995,
+    "value": "$22.50",
+    "fk_customer": 640,
+    "fk_user": 6,
+    "sale_date": "2/14/2022",
+    "fk_payment_method": 5
+  },
+  {
+    "sale_id": 996,
+    "value": "$147.81",
+    "fk_customer": 219,
+    "fk_user": 9,
+    "sale_date": "5/2/2017",
+    "fk_payment_method": 1
+  },
+  {
+    "sale_id": 997,
+    "value": "$257.55",
+    "fk_customer": 671,
+    "fk_user": 28,
+    "sale_date": "6/24/2022",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 998,
+    "value": "$39.11",
+    "fk_customer": 610,
+    "fk_user": 7,
+    "sale_date": "10/19/2015",
+    "fk_payment_method": 7
+  },
+  {
+    "sale_id": 999,
+    "value": "$135.90",
+    "fk_customer": 561,
+    "fk_user": 10,
+    "sale_date": "8/28/2021",
+    "fk_payment_method": 2
+  },
+  {
+    "sale_id": 1000,
+    "value": "$133.67",
+    "fk_customer": 849,
+    "fk_user": 17,
+    "sale_date": "3/9/2020",
+    "fk_payment_method": 4
+  }
+]

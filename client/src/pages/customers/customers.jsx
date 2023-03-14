@@ -12,7 +12,8 @@ const Customers = () => {
     {field: "register_date", flex: 1, headerName: "Register Date"},
     {field: "birth_date", flex: 1, headerName: "Birth Date"},
     {field: "email", flex: 1, headerName: "Email"},
-    {field: "recive_news_email", headerName: "Recive Emails"}
+    {field: "recive_news_email", headerName: "Recive Emails"},
+    {field: "active", headerName: "Active"}
   ];
 
   return (

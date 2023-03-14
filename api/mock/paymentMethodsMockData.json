@@ -1,0 +1,30 @@
+[
+  {
+    "payment_method_id": 0,
+    "ds_payment_method": "Credit Card"
+  },
+  {
+    "payment_method_id": 1,
+    "ds_payment_method": "Debit Card"
+  },
+  {
+    "payment_method_id": 2,
+    "ds_payment_method": "Paypal"
+  },
+  {
+    "payment_method_id": 3,
+    "ds_payment_method": "Pix"
+  },
+  {
+    "payment_method_id": 4,
+    "ds_payment_method": "Cash"
+  },
+  {
+    "payment_method_id": 5,
+    "ds_payment_method": "Bank Transfer"
+  },
+  {
+    "payment_method_id": 6,
+    "ds_payment_method": "Cryptocurrency"
+  }
+]
