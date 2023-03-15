@@ -1,18 +1,20 @@
+const moment = require("moment");
+
 exports.listAll = async (req, res, _next) => {
   if(__atWork) {
-    const mockData = require("../mock/customersMockData.json");
+    const mockData = require("../mock/data/customersMockData.json");
     if (!mockData.length) 
       return res.status(204).json();
   };
-}
+};
 
 exports.monthlyNewCustomers = async (req, res, _next) => {
   if(__atWork) {
-    const mockData = require("../mock/customersMockData.json");
+    const mockData = require("../mock/data/customersMockData.json");
     if(!mockData.length) 
       return res.status(204).json();
 
-    const moment = require("moment");
+    
     const currMonth = moment().format("MMM/YYYY");
     let filteredUsers = [];
 

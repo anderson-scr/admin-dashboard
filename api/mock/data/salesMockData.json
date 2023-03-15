@@ -7998,5 +7998,21 @@
     "fk_user": 17,
     "sale_date": "3/9/2020",
     "fk_payment_method": 4
+  },
+  {
+    "sale_id": 1001,
+    "value": "$133.67",
+    "fk_customer": 849,
+    "fk_user": 17,
+    "sale_date": "3/15/2023",
+    "fk_payment_method": 4
+  },
+  {
+    "sale_id": 1002,
+    "value": "$200.10",
+    "fk_customer": 849,
+    "fk_user": 17,
+    "sale_date": "3/15/2023",
+    "fk_payment_method": 4
   }
 ]

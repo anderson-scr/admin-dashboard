@@ -1,5 +1,5 @@
 const router = require("express").Router();
-const controller = require("../controller/customerController");
+const controller = __atWork? require("../controller/customerController") : require("../mock/controller/customerController");
 
 router.get("/listAll", controller.listAll);
 

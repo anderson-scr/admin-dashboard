@@ -2,32 +2,28 @@ const moment = require("moment");
 
 //#region Route Calls
 exports.listAll = (req, res, _next) => {
-  if(__atWork) {
-    
-  };
+  
 };
 
 exports.saleValues = (req, res, _next) => {
-  if(__atWork) {
-    try {
-      const mockData = require("../mock/salesMockData.json");
-      const saleValues = {
-        todaySales: 0.0,
-        monthlySales: 0.0,
-        yearSales: 0.0,
-        totalSales: 0.0
-      }
-      const currDate = moment().format("DD/MMM/YYYY");
-  
-      mockData.forEach(sale => {
-        compareSaleDateToCurrentDate(sale, currDate, saleValues);
-      });
+  try {
+    const mockData = require("../data/salesMockData.json");
+    const saleValues = {
+      todaySales: 0.0,
+      monthlySales: 0.0,
+      yearSales: 0.0,
+      totalSales: 0.0
+    }
+    const currDate = moment().format("DD/MMM/YYYY");
 
-      res.status(200).json({ saleValues });
-    }
-    catch(err) {
-      console.log(err.message);
-    }
+    mockData.forEach(sale => {
+      compareSaleDateToCurrentDate(sale, currDate, saleValues);
+    });
+
+    res.status(200).json({ saleValues });
+  }
+  catch(err) {
+    console.log(err.message);
   }
 };
 //#endregion

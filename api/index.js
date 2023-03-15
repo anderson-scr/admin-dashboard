@@ -11,6 +11,8 @@ const port = process.env.API_PORT || 3003;
 
 // Global save for the root path
 global.__basedir = __dirname;
+
+// When i'm at work and can't connect to any DB
 global.__atWork = true;
 
 // Config parsing middleware
