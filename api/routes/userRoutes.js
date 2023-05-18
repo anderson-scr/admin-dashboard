@@ -1,5 +1,5 @@
 const router = require("express").Router();
-const controller = __atWork? require("../controller/userController") : require("../mock/controller/userController");
+const controller = require("../controller/userController");
 
 router.post("/login", controller.login);
 
